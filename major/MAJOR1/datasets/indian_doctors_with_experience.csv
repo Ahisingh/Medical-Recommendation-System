@@ -1,0 +1,1641 @@
+Name,Degree,City,Disease Treated,Experience
+Dr. Sunita Roy,"MBBS, MS",Mumbai,Fungal infection,30
+Dr. Manisha Patil,"MBBS, DNB",Mumbai,Fungal infection,28
+Dr. Rahul Bansal,MBBS,Delhi,Fungal infection,5
+Dr. Arun Joshi,DM,Delhi,Fungal infection,21
+Dr. Vikas Tiwari,"MBBS, MD",Bangalore,Fungal infection,32
+Dr. Ritu Kapoor,MS,Bangalore,Fungal infection,32
+Dr. Sunita Roy,MD,Kolkata,Fungal infection,14
+Dr. Rahul Bansal,"MD, DM",Kolkata,Fungal infection,6
+Dr. Manisha Patil,MD,Chennai,Fungal infection,23
+Dr. Rajesh Sharma,MBBS,Chennai,Fungal infection,14
+Dr. Deepa Menon,"MBBS, DNB",Hyderabad,Fungal infection,31
+Dr. Vikas Tiwari,"MD, DM",Hyderabad,Fungal infection,29
+Dr. Anjali Reddy,"MD, DM",Ahmedabad,Fungal infection,21
+Dr. Anil Mehta,"MBBS, MD",Ahmedabad,Fungal infection,25
+Dr. Neha Verma,"MBBS, DNB",Pune,Fungal infection,30
+Dr. Pankaj Jain,MD,Pune,Fungal infection,15
+Dr. Deepa Menon,"MBBS, MD",Jaipur,Fungal infection,30
+Dr. Ritu Kapoor,MD,Jaipur,Fungal infection,20
+Dr. Swati Sinha,"MBBS, DNB",Lucknow,Fungal infection,31
+Dr. Priya Singh,"MD, DM",Lucknow,Fungal infection,18
+Dr. Anil Mehta,MS,Kanpur,Fungal infection,14
+Dr. Manisha Patil,"MD, DM",Kanpur,Fungal infection,29
+Dr. Anil Mehta,"MBBS, DNB",Nagpur,Fungal infection,30
+Dr. Swati Sinha,"MD, DM",Nagpur,Fungal infection,24
+Dr. Pankaj Jain,"MBBS, MD",Indore,Fungal infection,20
+Dr. Priya Singh,"MBBS, MD",Indore,Fungal infection,32
+Dr. Arun Joshi,"MBBS, MD",Bhopal,Fungal infection,9
+Dr. Anjali Reddy,"MBBS, DNB",Bhopal,Fungal infection,31
+Dr. Priya Singh,MBBS,Visakhapatnam,Fungal infection,34
+Dr. Sunita Roy,MS,Visakhapatnam,Fungal infection,26
+Dr. Swati Sinha,"MBBS, DNB",Patna,Fungal infection,20
+Dr. Amit Gupta,MD,Patna,Fungal infection,34
+Dr. Anjali Reddy,"MBBS, DNB",Ranchi,Fungal infection,7
+Dr. Anjali Reddy,"MD, DM",Ranchi,Fungal infection,21
+Dr. Ritu Kapoor,MBBS,Bhubaneswar,Fungal infection,9
+Dr. Ajay Chauhan,"MBBS, MS",Bhubaneswar,Fungal infection,34
+Dr. Pankaj Jain,MD,Cochin,Fungal infection,25
+Dr. Vikas Tiwari,"MBBS, MS",Cochin,Fungal infection,14
+Dr. Swati Sinha,MBBS,Guwahati,Fungal infection,23
+Dr. Anjali Reddy,MBBS,Guwahati,Fungal infection,10
+Dr. Pankaj Jain,MD,Mumbai,Allergy,14
+Dr. Sanjay Kumar,MS,Mumbai,Allergy,18
+Dr. Ritu Kapoor,MBBS,Delhi,Allergy,15
+Dr. Ajay Chauhan,"MBBS, MS",Delhi,Allergy,10
+Dr. Arun Joshi,"MD, DM",Bangalore,Allergy,29
+Dr. Deepa Menon,"MBBS, DNB",Bangalore,Allergy,18
+Dr. Priya Singh,"MBBS, MS",Kolkata,Allergy,25
+Dr. Swati Sinha,"MD, DM",Kolkata,Allergy,9
+Dr. Vivek Chawla,MD,Chennai,Allergy,8
+Dr. Anil Mehta,MD,Chennai,Allergy,8
+Dr. Arun Joshi,MBBS,Hyderabad,Allergy,31
+Dr. Anil Mehta,"MBBS, MD",Hyderabad,Allergy,18
+Dr. Preeti Desai,"MD, DM",Ahmedabad,Allergy,22
+Dr. Arun Joshi,DM,Ahmedabad,Allergy,7
+Dr. Deepa Menon,DM,Pune,Allergy,9
+Dr. Arun Joshi,MD,Pune,Allergy,32
+Dr. Pankaj Jain,"MBBS, DNB",Jaipur,Allergy,31
+Dr. Ajay Chauhan,MD,Jaipur,Allergy,9
+Dr. Vivek Chawla,"MD, DM",Lucknow,Allergy,25
+Dr. Ajay Chauhan,MBBS,Lucknow,Allergy,25
+Dr. Rajesh Sharma,MBBS,Kanpur,Allergy,15
+Dr. Arun Joshi,"MD, DM",Kanpur,Allergy,18
+Dr. Anjali Reddy,MS,Nagpur,Allergy,20
+Dr. Swati Sinha,MBBS,Nagpur,Allergy,25
+Dr. Priya Singh,MS,Indore,Allergy,35
+Dr. Vivek Chawla,"MBBS, DNB",Indore,Allergy,8
+Dr. Preeti Desai,"MBBS, MD",Bhopal,Allergy,13
+Dr. Sanjay Kumar,DM,Bhopal,Allergy,15
+Dr. Vivek Chawla,MS,Visakhapatnam,Allergy,17
+Dr. Manisha Patil,"MBBS, MD",Visakhapatnam,Allergy,11
+Dr. Swati Sinha,"MBBS, MS",Patna,Allergy,18
+Dr. Anjali Reddy,MBBS,Patna,Allergy,11
+Dr. Swati Sinha,MBBS,Ranchi,Allergy,9
+Dr. Sanjay Kumar,DM,Ranchi,Allergy,34
+Dr. Ritu Kapoor,MS,Bhubaneswar,Allergy,11
+Dr. Vikas Tiwari,"MBBS, MD",Bhubaneswar,Allergy,30
+Dr. Manisha Patil,MD,Cochin,Allergy,20
+Dr. Kavita Rao,"MD, DM",Cochin,Allergy,18
+Dr. Vikas Tiwari,"MD, DM",Guwahati,Allergy,9
+Dr. Kavita Rao,"MBBS, MD",Guwahati,Allergy,29
+Dr. Neha Verma,MS,Mumbai,GERD,29
+Dr. Vivek Chawla,MS,Mumbai,GERD,18
+Dr. Manisha Patil,MD,Delhi,GERD,20
+Dr. Ajay Chauhan,DM,Delhi,GERD,18
+Dr. Deepa Menon,"MBBS, MS",Bangalore,GERD,32
+Dr. Pankaj Jain,DM,Bangalore,GERD,18
+Dr. Deepa Menon,"MBBS, MD",Kolkata,GERD,7
+Dr. Preeti Desai,MS,Kolkata,GERD,10
+Dr. Neha Verma,"MBBS, MD",Chennai,GERD,8
+Dr. Rajesh Sharma,MD,Chennai,GERD,15
+Dr. Ajay Chauhan,MD,Hyderabad,GERD,6
+Dr. Priya Singh,"MD, DM",Hyderabad,GERD,6
+Dr. Ritu Kapoor,"MBBS, DNB",Ahmedabad,GERD,22
+Dr. Deepa Menon,MS,Ahmedabad,GERD,9
+Dr. Kavita Rao,MS,Pune,GERD,35
+Dr. Priya Singh,MD,Pune,GERD,10
+Dr. Anil Mehta,MS,Jaipur,GERD,13
+Dr. Sunita Roy,DM,Jaipur,GERD,17
+Dr. Anjali Reddy,MS,Lucknow,GERD,31
+Dr. Sunita Roy,"MBBS, MS",Lucknow,GERD,30
+Dr. Anjali Reddy,MS,Kanpur,GERD,29
+Dr. Deepa Menon,MD,Kanpur,GERD,25
+Dr. Arun Joshi,DM,Nagpur,GERD,14
+Dr. Kavita Rao,"MD, DM",Nagpur,GERD,8
+Dr. Kavita Rao,"MD, DM",Indore,GERD,20
+Dr. Neha Verma,"MBBS, DNB",Indore,GERD,23
+Dr. Vikas Tiwari,"MBBS, MS",Bhopal,GERD,6
+Dr. Kavita Rao,MBBS,Bhopal,GERD,8
+Dr. Preeti Desai,MD,Visakhapatnam,GERD,14
+Dr. Neha Verma,"MBBS, DNB",Visakhapatnam,GERD,23
+Dr. Neha Verma,MS,Patna,GERD,20
+Dr. Sanjay Kumar,MBBS,Patna,GERD,32
+Dr. Ajay Chauhan,"MD, DM",Ranchi,GERD,10
+Dr. Ritu Kapoor,DM,Ranchi,GERD,10
+Dr. Deepa Menon,"MBBS, DNB",Bhubaneswar,GERD,30
+Dr. Manisha Patil,"MBBS, MD",Bhubaneswar,GERD,31
+Dr. Vivek Chawla,"MBBS, MD",Cochin,GERD,17
+Dr. Amit Gupta,"MD, DM",Cochin,GERD,18
+Dr. Arun Joshi,MBBS,Guwahati,GERD,14
+Dr. Sunita Roy,"MBBS, DNB",Guwahati,GERD,35
+Dr. Ritu Kapoor,"MBBS, MD",Mumbai,Chronic cholestasis,15
+Dr. Ajay Chauhan,"MD, DM",Mumbai,Chronic cholestasis,10
+Dr. Vivek Chawla,MD,Delhi,Chronic cholestasis,10
+Dr. Neha Verma,"MD, DM",Delhi,Chronic cholestasis,6
+Dr. Arun Joshi,MS,Bangalore,Chronic cholestasis,8
+Dr. Manisha Patil,MBBS,Bangalore,Chronic cholestasis,23
+Dr. Manisha Patil,"MBBS, MD",Kolkata,Chronic cholestasis,25
+Dr. Anil Mehta,MD,Kolkata,Chronic cholestasis,20
+Dr. Priya Singh,MD,Chennai,Chronic cholestasis,17
+Dr. Kavita Rao,MBBS,Chennai,Chronic cholestasis,20
+Dr. Arun Joshi,"MBBS, MS",Hyderabad,Chronic cholestasis,34
+Dr. Amit Gupta,DM,Hyderabad,Chronic cholestasis,29
+Dr. Pankaj Jain,"MBBS, DNB",Ahmedabad,Chronic cholestasis,18
+Dr. Anil Mehta,"MD, DM",Ahmedabad,Chronic cholestasis,9
+Dr. Sanjay Kumar,DM,Pune,Chronic cholestasis,15
+Dr. Swati Sinha,"MBBS, DNB",Pune,Chronic cholestasis,29
+Dr. Deepa Menon,MS,Jaipur,Chronic cholestasis,16
+Dr. Preeti Desai,DM,Jaipur,Chronic cholestasis,17
+Dr. Anil Mehta,"MBBS, MS",Lucknow,Chronic cholestasis,17
+Dr. Manisha Patil,MD,Lucknow,Chronic cholestasis,34
+Dr. Deepa Menon,DM,Kanpur,Chronic cholestasis,18
+Dr. Anjali Reddy,"MBBS, MD",Kanpur,Chronic cholestasis,30
+Dr. Rajesh Sharma,MD,Nagpur,Chronic cholestasis,6
+Dr. Pankaj Jain,MBBS,Nagpur,Chronic cholestasis,26
+Dr. Anjali Reddy,MD,Indore,Chronic cholestasis,25
+Dr. Amit Gupta,MBBS,Indore,Chronic cholestasis,24
+Dr. Kavita Rao,"MBBS, MS",Bhopal,Chronic cholestasis,8
+Dr. Deepa Menon,"MBBS, MS",Bhopal,Chronic cholestasis,25
+Dr. Deepa Menon,"MBBS, DNB",Visakhapatnam,Chronic cholestasis,28
+Dr. Neha Verma,DM,Visakhapatnam,Chronic cholestasis,13
+Dr. Anjali Reddy,"MBBS, MD",Patna,Chronic cholestasis,34
+Dr. Rajesh Sharma,"MBBS, MS",Patna,Chronic cholestasis,35
+Dr. Deepa Menon,"MBBS, MS",Ranchi,Chronic cholestasis,29
+Dr. Arun Joshi,"MBBS, MS",Ranchi,Chronic cholestasis,6
+Dr. Manisha Patil,"MD, DM",Bhubaneswar,Chronic cholestasis,30
+Dr. Ajay Chauhan,"MBBS, DNB",Bhubaneswar,Chronic cholestasis,21
+Dr. Anil Mehta,MBBS,Cochin,Chronic cholestasis,31
+Dr. Rahul Bansal,MS,Cochin,Chronic cholestasis,32
+Dr. Vivek Chawla,MD,Guwahati,Chronic cholestasis,23
+Dr. Swati Sinha,"MBBS, MD",Guwahati,Chronic cholestasis,29
+Dr. Vivek Chawla,"MBBS, DNB",Mumbai,Drug Reaction,13
+Dr. Ritu Kapoor,MBBS,Mumbai,Drug Reaction,7
+Dr. Vivek Chawla,MS,Delhi,Drug Reaction,28
+Dr. Arun Joshi,"MD, DM",Delhi,Drug Reaction,30
+Dr. Ritu Kapoor,"MD, DM",Bangalore,Drug Reaction,34
+Dr. Ritu Kapoor,"MBBS, MD",Bangalore,Drug Reaction,35
+Dr. Neha Verma,"MBBS, MD",Kolkata,Drug Reaction,6
+Dr. Anjali Reddy,MD,Kolkata,Drug Reaction,35
+Dr. Ritu Kapoor,DM,Chennai,Drug Reaction,14
+Dr. Vivek Chawla,MBBS,Chennai,Drug Reaction,23
+Dr. Deepa Menon,MD,Hyderabad,Drug Reaction,30
+Dr. Rajesh Sharma,"MD, DM",Hyderabad,Drug Reaction,32
+Dr. Swati Sinha,MD,Ahmedabad,Drug Reaction,33
+Dr. Anjali Reddy,"MBBS, MS",Ahmedabad,Drug Reaction,18
+Dr. Priya Singh,"MBBS, DNB",Pune,Drug Reaction,8
+Dr. Ritu Kapoor,MBBS,Pune,Drug Reaction,21
+Dr. Pankaj Jain,MBBS,Jaipur,Drug Reaction,13
+Dr. Neha Verma,"MBBS, MS",Jaipur,Drug Reaction,11
+Dr. Vikas Tiwari,"MBBS, MS",Lucknow,Drug Reaction,7
+Dr. Deepa Menon,MS,Lucknow,Drug Reaction,32
+Dr. Manisha Patil,MBBS,Kanpur,Drug Reaction,23
+Dr. Ajay Chauhan,"MBBS, DNB",Kanpur,Drug Reaction,23
+Dr. Manisha Patil,MD,Nagpur,Drug Reaction,35
+Dr. Deepa Menon,MS,Nagpur,Drug Reaction,7
+Dr. Kavita Rao,"MBBS, DNB",Indore,Drug Reaction,22
+Dr. Rahul Bansal,MS,Indore,Drug Reaction,23
+Dr. Priya Singh,"MBBS, MD",Bhopal,Drug Reaction,8
+Dr. Ritu Kapoor,"MBBS, MD",Bhopal,Drug Reaction,35
+Dr. Neha Verma,DM,Visakhapatnam,Drug Reaction,14
+Dr. Arun Joshi,MD,Visakhapatnam,Drug Reaction,19
+Dr. Swati Sinha,"MBBS, DNB",Patna,Drug Reaction,35
+Dr. Anil Mehta,DM,Patna,Drug Reaction,32
+Dr. Ritu Kapoor,DM,Ranchi,Drug Reaction,13
+Dr. Anjali Reddy,"MBBS, MD",Ranchi,Drug Reaction,6
+Dr. Sanjay Kumar,DM,Bhubaneswar,Drug Reaction,30
+Dr. Anil Mehta,"MD, DM",Bhubaneswar,Drug Reaction,11
+Dr. Arun Joshi,MS,Cochin,Drug Reaction,31
+Dr. Vivek Chawla,MD,Cochin,Drug Reaction,18
+Dr. Vikas Tiwari,"MBBS, MD",Guwahati,Drug Reaction,15
+Dr. Ajay Chauhan,"MBBS, MS",Guwahati,Drug Reaction,8
+Dr. Rajesh Sharma,MD,Mumbai,Peptic ulcer diseae,8
+Dr. Ritu Kapoor,MBBS,Mumbai,Peptic ulcer diseae,29
+Dr. Deepa Menon,MS,Delhi,Peptic ulcer diseae,19
+Dr. Vivek Chawla,MS,Delhi,Peptic ulcer diseae,25
+Dr. Swati Sinha,MBBS,Bangalore,Peptic ulcer diseae,21
+Dr. Arun Joshi,MD,Bangalore,Peptic ulcer diseae,29
+Dr. Pankaj Jain,"MBBS, MS",Kolkata,Peptic ulcer diseae,5
+Dr. Amit Gupta,MS,Kolkata,Peptic ulcer diseae,29
+Dr. Anil Mehta,"MD, DM",Chennai,Peptic ulcer diseae,33
+Dr. Amit Gupta,MS,Chennai,Peptic ulcer diseae,29
+Dr. Kavita Rao,"MD, DM",Hyderabad,Peptic ulcer diseae,25
+Dr. Neha Verma,MBBS,Hyderabad,Peptic ulcer diseae,5
+Dr. Ajay Chauhan,MBBS,Ahmedabad,Peptic ulcer diseae,5
+Dr. Amit Gupta,DM,Ahmedabad,Peptic ulcer diseae,23
+Dr. Vivek Chawla,DM,Pune,Peptic ulcer diseae,21
+Dr. Arun Joshi,MD,Pune,Peptic ulcer diseae,9
+Dr. Anjali Reddy,DM,Jaipur,Peptic ulcer diseae,35
+Dr. Priya Singh,"MBBS, MS",Jaipur,Peptic ulcer diseae,15
+Dr. Kavita Rao,"MD, DM",Lucknow,Peptic ulcer diseae,17
+Dr. Vivek Chawla,"MBBS, DNB",Lucknow,Peptic ulcer diseae,20
+Dr. Deepa Menon,DM,Kanpur,Peptic ulcer diseae,5
+Dr. Vivek Chawla,DM,Kanpur,Peptic ulcer diseae,5
+Dr. Swati Sinha,"MD, DM",Nagpur,Peptic ulcer diseae,10
+Dr. Anil Mehta,"MBBS, MD",Nagpur,Peptic ulcer diseae,15
+Dr. Sanjay Kumar,"MBBS, DNB",Indore,Peptic ulcer diseae,13
+Dr. Anil Mehta,"MBBS, MD",Indore,Peptic ulcer diseae,20
+Dr. Arun Joshi,"MBBS, MD",Bhopal,Peptic ulcer diseae,26
+Dr. Ritu Kapoor,"MBBS, MD",Bhopal,Peptic ulcer diseae,29
+Dr. Manisha Patil,MS,Visakhapatnam,Peptic ulcer diseae,30
+Dr. Swati Sinha,"MBBS, MD",Visakhapatnam,Peptic ulcer diseae,26
+Dr. Sanjay Kumar,"MBBS, MD",Patna,Peptic ulcer diseae,25
+Dr. Vivek Chawla,MD,Patna,Peptic ulcer diseae,8
+Dr. Manisha Patil,MD,Ranchi,Peptic ulcer diseae,30
+Dr. Sunita Roy,"MD, DM",Ranchi,Peptic ulcer diseae,30
+Dr. Arun Joshi,DM,Bhubaneswar,Peptic ulcer diseae,15
+Dr. Ritu Kapoor,MS,Bhubaneswar,Peptic ulcer diseae,18
+Dr. Anjali Reddy,"MBBS, MS",Cochin,Peptic ulcer diseae,34
+Dr. Kavita Rao,MBBS,Cochin,Peptic ulcer diseae,32
+Dr. Amit Gupta,MD,Guwahati,Peptic ulcer diseae,20
+Dr. Deepa Menon,MD,Guwahati,Peptic ulcer diseae,11
+Dr. Rajesh Sharma,DM,Mumbai,AIDS,23
+Dr. Deepa Menon,MS,Mumbai,AIDS,13
+Dr. Pankaj Jain,MBBS,Delhi,AIDS,35
+Dr. Neha Verma,MS,Delhi,AIDS,9
+Dr. Rajesh Sharma,MS,Bangalore,AIDS,13
+Dr. Ritu Kapoor,"MBBS, MS",Bangalore,AIDS,13
+Dr. Swati Sinha,"MBBS, MS",Kolkata,AIDS,6
+Dr. Vivek Chawla,"MBBS, MS",Kolkata,AIDS,14
+Dr. Sunita Roy,MBBS,Chennai,AIDS,8
+Dr. Arun Joshi,MS,Chennai,AIDS,7
+Dr. Sanjay Kumar,"MD, DM",Hyderabad,AIDS,16
+Dr. Vivek Chawla,"MD, DM",Hyderabad,AIDS,18
+Dr. Sunita Roy,MD,Ahmedabad,AIDS,25
+Dr. Rahul Bansal,"MBBS, DNB",Ahmedabad,AIDS,14
+Dr. Neha Verma,"MD, DM",Pune,AIDS,21
+Dr. Anil Mehta,MD,Pune,AIDS,17
+Dr. Neha Verma,MBBS,Jaipur,AIDS,17
+Dr. Vikas Tiwari,"MD, DM",Jaipur,AIDS,15
+Dr. Swati Sinha,MD,Lucknow,AIDS,29
+Dr. Kavita Rao,"MBBS, MD",Lucknow,AIDS,34
+Dr. Sanjay Kumar,MD,Kanpur,AIDS,6
+Dr. Preeti Desai,"MD, DM",Kanpur,AIDS,9
+Dr. Rahul Bansal,"MBBS, MD",Nagpur,AIDS,29
+Dr. Deepa Menon,DM,Nagpur,AIDS,17
+Dr. Vikas Tiwari,MS,Indore,AIDS,18
+Dr. Ajay Chauhan,DM,Indore,AIDS,30
+Dr. Arun Joshi,"MBBS, DNB",Bhopal,AIDS,17
+Dr. Rajesh Sharma,"MBBS, MD",Bhopal,AIDS,7
+Dr. Arun Joshi,DM,Visakhapatnam,AIDS,29
+Dr. Sanjay Kumar,DM,Visakhapatnam,AIDS,7
+Dr. Deepa Menon,MBBS,Patna,AIDS,14
+Dr. Sunita Roy,"MBBS, MS",Patna,AIDS,6
+Dr. Ajay Chauhan,"MBBS, MD",Ranchi,AIDS,15
+Dr. Rahul Bansal,"MBBS, DNB",Ranchi,AIDS,30
+Dr. Arun Joshi,"MBBS, MD",Bhubaneswar,AIDS,18
+Dr. Preeti Desai,MD,Bhubaneswar,AIDS,25
+Dr. Swati Sinha,MBBS,Cochin,AIDS,35
+Dr. Ritu Kapoor,MD,Cochin,AIDS,8
+Dr. Sanjay Kumar,"MD, DM",Guwahati,AIDS,9
+Dr. Swati Sinha,"MD, DM",Guwahati,AIDS,32
+Dr. Kavita Rao,MD,Mumbai,Diabetes ,22
+Dr. Amit Gupta,MS,Mumbai,Diabetes ,18
+Dr. Neha Verma,MBBS,Delhi,Diabetes ,30
+Dr. Ritu Kapoor,DM,Delhi,Diabetes ,33
+Dr. Ajay Chauhan,"MD, DM",Bangalore,Diabetes ,26
+Dr. Kavita Rao,MS,Bangalore,Diabetes ,32
+Dr. Preeti Desai,"MBBS, MS",Kolkata,Diabetes ,20
+Dr. Rahul Bansal,DM,Kolkata,Diabetes ,21
+Dr. Rahul Bansal,DM,Chennai,Diabetes ,26
+Dr. Sunita Roy,"MBBS, MD",Chennai,Diabetes ,35
+Dr. Rahul Bansal,MD,Hyderabad,Diabetes ,35
+Dr. Kavita Rao,"MBBS, MD",Hyderabad,Diabetes ,33
+Dr. Vikas Tiwari,"MBBS, MD",Ahmedabad,Diabetes ,5
+Dr. Arun Joshi,MD,Ahmedabad,Diabetes ,25
+Dr. Priya Singh,"MBBS, DNB",Pune,Diabetes ,8
+Dr. Vikas Tiwari,"MBBS, DNB",Pune,Diabetes ,32
+Dr. Anil Mehta,MS,Jaipur,Diabetes ,34
+Dr. Kavita Rao,"MBBS, DNB",Jaipur,Diabetes ,18
+Dr. Amit Gupta,"MD, DM",Lucknow,Diabetes ,6
+Dr. Ajay Chauhan,"MBBS, MD",Lucknow,Diabetes ,35
+Dr. Ajay Chauhan,MD,Kanpur,Diabetes ,26
+Dr. Arun Joshi,"MBBS, MS",Kanpur,Diabetes ,29
+Dr. Deepa Menon,MBBS,Nagpur,Diabetes ,5
+Dr. Rajesh Sharma,"MBBS, DNB",Nagpur,Diabetes ,23
+Dr. Manisha Patil,MBBS,Indore,Diabetes ,35
+Dr. Priya Singh,"MBBS, MS",Indore,Diabetes ,24
+Dr. Neha Verma,DM,Bhopal,Diabetes ,10
+Dr. Pankaj Jain,MBBS,Bhopal,Diabetes ,32
+Dr. Vivek Chawla,DM,Visakhapatnam,Diabetes ,30
+Dr. Kavita Rao,"MBBS, MD",Visakhapatnam,Diabetes ,18
+Dr. Preeti Desai,"MBBS, MD",Patna,Diabetes ,10
+Dr. Anjali Reddy,"MD, DM",Patna,Diabetes ,18
+Dr. Amit Gupta,"MBBS, DNB",Ranchi,Diabetes ,5
+Dr. Kavita Rao,"MD, DM",Ranchi,Diabetes ,35
+Dr. Ritu Kapoor,DM,Bhubaneswar,Diabetes ,18
+Dr. Sanjay Kumar,MD,Bhubaneswar,Diabetes ,30
+Dr. Anil Mehta,MD,Cochin,Diabetes ,5
+Dr. Arun Joshi,MD,Cochin,Diabetes ,23
+Dr. Sanjay Kumar,MS,Guwahati,Diabetes ,29
+Dr. Rahul Bansal,"MBBS, MS",Guwahati,Diabetes ,30
+Dr. Arun Joshi,"MBBS, MD",Mumbai,Gastroenteritis,7
+Dr. Preeti Desai,MS,Mumbai,Gastroenteritis,5
+Dr. Amit Gupta,MBBS,Delhi,Gastroenteritis,30
+Dr. Rajesh Sharma,"MBBS, DNB",Delhi,Gastroenteritis,11
+Dr. Vikas Tiwari,MD,Bangalore,Gastroenteritis,5
+Dr. Manisha Patil,DM,Bangalore,Gastroenteritis,30
+Dr. Anjali Reddy,"MD, DM",Kolkata,Gastroenteritis,10
+Dr. Anil Mehta,"MBBS, MS",Kolkata,Gastroenteritis,25
+Dr. Arun Joshi,DM,Chennai,Gastroenteritis,23
+Dr. Neha Verma,"MBBS, MD",Chennai,Gastroenteritis,29
+Dr. Amit Gupta,"MBBS, MD",Hyderabad,Gastroenteritis,13
+Dr. Priya Singh,"MBBS, DNB",Hyderabad,Gastroenteritis,8
+Dr. Ajay Chauhan,MS,Ahmedabad,Gastroenteritis,30
+Dr. Anil Mehta,MD,Ahmedabad,Gastroenteritis,15
+Dr. Anjali Reddy,"MD, DM",Pune,Gastroenteritis,6
+Dr. Amit Gupta,MBBS,Pune,Gastroenteritis,6
+Dr. Sanjay Kumar,MD,Jaipur,Gastroenteritis,34
+Dr. Swati Sinha,MD,Jaipur,Gastroenteritis,32
+Dr. Vivek Chawla,DM,Lucknow,Gastroenteritis,20
+Dr. Vikas Tiwari,DM,Lucknow,Gastroenteritis,34
+Dr. Deepa Menon,MBBS,Kanpur,Gastroenteritis,25
+Dr. Anil Mehta,"MD, DM",Kanpur,Gastroenteritis,13
+Dr. Sanjay Kumar,MD,Nagpur,Gastroenteritis,17
+Dr. Vikas Tiwari,"MBBS, DNB",Nagpur,Gastroenteritis,17
+Dr. Sunita Roy,"MBBS, MS",Indore,Gastroenteritis,28
+Dr. Swati Sinha,MD,Indore,Gastroenteritis,12
+Dr. Swati Sinha,"MD, DM",Bhopal,Gastroenteritis,8
+Dr. Pankaj Jain,MD,Bhopal,Gastroenteritis,21
+Dr. Kavita Rao,"MD, DM",Visakhapatnam,Gastroenteritis,10
+Dr. Ritu Kapoor,MD,Visakhapatnam,Gastroenteritis,18
+Dr. Neha Verma,"MBBS, MS",Patna,Gastroenteritis,7
+Dr. Anil Mehta,MD,Patna,Gastroenteritis,5
+Dr. Ajay Chauhan,"MBBS, MS",Ranchi,Gastroenteritis,29
+Dr. Preeti Desai,MBBS,Ranchi,Gastroenteritis,34
+Dr. Priya Singh,"MBBS, MS",Bhubaneswar,Gastroenteritis,23
+Dr. Anil Mehta,MD,Bhubaneswar,Gastroenteritis,7
+Dr. Ritu Kapoor,MS,Cochin,Gastroenteritis,25
+Dr. Deepa Menon,MBBS,Cochin,Gastroenteritis,9
+Dr. Vivek Chawla,"MBBS, MD",Guwahati,Gastroenteritis,9
+Dr. Rahul Bansal,MS,Guwahati,Gastroenteritis,29
+Dr. Kavita Rao,MBBS,Mumbai,Bronchial Asthma,21
+Dr. Ritu Kapoor,DM,Mumbai,Bronchial Asthma,14
+Dr. Preeti Desai,"MBBS, MS",Delhi,Bronchial Asthma,25
+Dr. Kavita Rao,MBBS,Delhi,Bronchial Asthma,6
+Dr. Rajesh Sharma,MBBS,Bangalore,Bronchial Asthma,22
+Dr. Swati Sinha,MBBS,Bangalore,Bronchial Asthma,18
+Dr. Amit Gupta,"MBBS, MD",Kolkata,Bronchial Asthma,6
+Dr. Manisha Patil,"MBBS, MS",Kolkata,Bronchial Asthma,29
+Dr. Vikas Tiwari,MS,Chennai,Bronchial Asthma,31
+Dr. Neha Verma,"MBBS, MD",Chennai,Bronchial Asthma,6
+Dr. Sunita Roy,"MBBS, DNB",Hyderabad,Bronchial Asthma,14
+Dr. Vivek Chawla,"MBBS, MS",Hyderabad,Bronchial Asthma,11
+Dr. Amit Gupta,DM,Ahmedabad,Bronchial Asthma,23
+Dr. Manisha Patil,MD,Ahmedabad,Bronchial Asthma,18
+Dr. Vivek Chawla,DM,Pune,Bronchial Asthma,14
+Dr. Amit Gupta,DM,Pune,Bronchial Asthma,18
+Dr. Deepa Menon,"MBBS, MS",Jaipur,Bronchial Asthma,29
+Dr. Priya Singh,MD,Jaipur,Bronchial Asthma,7
+Dr. Swati Sinha,"MBBS, MS",Lucknow,Bronchial Asthma,8
+Dr. Vikas Tiwari,DM,Lucknow,Bronchial Asthma,20
+Dr. Vikas Tiwari,MD,Kanpur,Bronchial Asthma,13
+Dr. Vikas Tiwari,DM,Kanpur,Bronchial Asthma,6
+Dr. Priya Singh,"MBBS, MD",Nagpur,Bronchial Asthma,30
+Dr. Arun Joshi,MD,Nagpur,Bronchial Asthma,14
+Dr. Pankaj Jain,MS,Indore,Bronchial Asthma,30
+Dr. Kavita Rao,MBBS,Indore,Bronchial Asthma,18
+Dr. Ritu Kapoor,"MBBS, MD",Bhopal,Bronchial Asthma,17
+Dr. Sunita Roy,MS,Bhopal,Bronchial Asthma,6
+Dr. Ritu Kapoor,"MBBS, MS",Visakhapatnam,Bronchial Asthma,32
+Dr. Pankaj Jain,MBBS,Visakhapatnam,Bronchial Asthma,15
+Dr. Sunita Roy,"MBBS, MS",Patna,Bronchial Asthma,13
+Dr. Priya Singh,"MBBS, DNB",Patna,Bronchial Asthma,12
+Dr. Amit Gupta,DM,Ranchi,Bronchial Asthma,23
+Dr. Pankaj Jain,MS,Ranchi,Bronchial Asthma,30
+Dr. Deepa Menon,"MBBS, DNB",Bhubaneswar,Bronchial Asthma,30
+Dr. Vikas Tiwari,DM,Bhubaneswar,Bronchial Asthma,10
+Dr. Swati Sinha,"MBBS, MD",Cochin,Bronchial Asthma,14
+Dr. Amit Gupta,MS,Cochin,Bronchial Asthma,15
+Dr. Ritu Kapoor,MBBS,Guwahati,Bronchial Asthma,7
+Dr. Anjali Reddy,"MD, DM",Guwahati,Bronchial Asthma,23
+Dr. Sanjay Kumar,MS,Mumbai,Hypertension ,13
+Dr. Preeti Desai,MS,Mumbai,Hypertension ,25
+Dr. Deepa Menon,"MBBS, MD",Delhi,Hypertension ,9
+Dr. Ajay Chauhan,MS,Delhi,Hypertension ,18
+Dr. Swati Sinha,DM,Bangalore,Hypertension ,20
+Dr. Amit Gupta,"MBBS, MS",Bangalore,Hypertension ,12
+Dr. Anjali Reddy,"MBBS, MS",Kolkata,Hypertension ,23
+Dr. Priya Singh,DM,Kolkata,Hypertension ,25
+Dr. Pankaj Jain,"MBBS, DNB",Chennai,Hypertension ,31
+Dr. Deepa Menon,"MBBS, MS",Chennai,Hypertension ,10
+Dr. Ritu Kapoor,MBBS,Hyderabad,Hypertension ,9
+Dr. Preeti Desai,"MD, DM",Hyderabad,Hypertension ,7
+Dr. Pankaj Jain,DM,Ahmedabad,Hypertension ,22
+Dr. Amit Gupta,"MBBS, MD",Ahmedabad,Hypertension ,26
+Dr. Sunita Roy,MS,Pune,Hypertension ,19
+Dr. Kavita Rao,"MBBS, DNB",Pune,Hypertension ,8
+Dr. Sunita Roy,"MBBS, MS",Jaipur,Hypertension ,9
+Dr. Neha Verma,"MD, DM",Jaipur,Hypertension ,32
+Dr. Amit Gupta,MBBS,Lucknow,Hypertension ,17
+Dr. Priya Singh,"MD, DM",Lucknow,Hypertension ,16
+Dr. Rajesh Sharma,MBBS,Kanpur,Hypertension ,9
+Dr. Neha Verma,"MBBS, DNB",Kanpur,Hypertension ,6
+Dr. Amit Gupta,"MBBS, MS",Nagpur,Hypertension ,15
+Dr. Sanjay Kumar,MBBS,Nagpur,Hypertension ,17
+Dr. Anjali Reddy,MD,Indore,Hypertension ,31
+Dr. Sanjay Kumar,"MBBS, MS",Indore,Hypertension ,6
+Dr. Arun Joshi,MD,Bhopal,Hypertension ,29
+Dr. Rahul Bansal,MBBS,Bhopal,Hypertension ,17
+Dr. Deepa Menon,MD,Visakhapatnam,Hypertension ,22
+Dr. Arun Joshi,DM,Visakhapatnam,Hypertension ,30
+Dr. Preeti Desai,"MBBS, MD",Patna,Hypertension ,33
+Dr. Deepa Menon,MD,Patna,Hypertension ,18
+Dr. Pankaj Jain,MS,Ranchi,Hypertension ,25
+Dr. Deepa Menon,"MBBS, DNB",Ranchi,Hypertension ,14
+Dr. Pankaj Jain,"MBBS, MD",Bhubaneswar,Hypertension ,12
+Dr. Kavita Rao,"MBBS, DNB",Bhubaneswar,Hypertension ,7
+Dr. Kavita Rao,"MBBS, MD",Cochin,Hypertension ,22
+Dr. Vivek Chawla,"MBBS, MS",Cochin,Hypertension ,18
+Dr. Rajesh Sharma,DM,Guwahati,Hypertension ,29
+Dr. Arun Joshi,"MBBS, MD",Guwahati,Hypertension ,14
+Dr. Pankaj Jain,MD,Mumbai,Migraine,7
+Dr. Kavita Rao,DM,Mumbai,Migraine,29
+Dr. Anjali Reddy,DM,Delhi,Migraine,18
+Dr. Rahul Bansal,MD,Delhi,Migraine,26
+Dr. Priya Singh,MS,Bangalore,Migraine,25
+Dr. Rajesh Sharma,"MD, DM",Bangalore,Migraine,25
+Dr. Anil Mehta,MS,Kolkata,Migraine,24
+Dr. Neha Verma,MS,Kolkata,Migraine,25
+Dr. Preeti Desai,"MBBS, MD",Chennai,Migraine,14
+Dr. Neha Verma,"MBBS, MS",Chennai,Migraine,25
+Dr. Sunita Roy,"MD, DM",Hyderabad,Migraine,32
+Dr. Kavita Rao,MBBS,Hyderabad,Migraine,29
+Dr. Ajay Chauhan,MS,Ahmedabad,Migraine,35
+Dr. Anjali Reddy,MBBS,Ahmedabad,Migraine,33
+Dr. Amit Gupta,MS,Pune,Migraine,25
+Dr. Ritu Kapoor,"MD, DM",Pune,Migraine,33
+Dr. Ritu Kapoor,"MD, DM",Jaipur,Migraine,5
+Dr. Ajay Chauhan,"MBBS, MS",Jaipur,Migraine,25
+Dr. Ajay Chauhan,"MBBS, MS",Lucknow,Migraine,6
+Dr. Priya Singh,"MBBS, MD",Lucknow,Migraine,34
+Dr. Amit Gupta,"MBBS, DNB",Kanpur,Migraine,35
+Dr. Rahul Bansal,"MD, DM",Kanpur,Migraine,6
+Dr. Ritu Kapoor,"MBBS, MS",Nagpur,Migraine,9
+Dr. Preeti Desai,"MD, DM",Nagpur,Migraine,34
+Dr. Sunita Roy,"MD, DM",Indore,Migraine,26
+Dr. Amit Gupta,MD,Indore,Migraine,35
+Dr. Amit Gupta,MS,Bhopal,Migraine,30
+Dr. Ritu Kapoor,MS,Bhopal,Migraine,29
+Dr. Neha Verma,"MBBS, MD",Visakhapatnam,Migraine,24
+Dr. Priya Singh,MD,Visakhapatnam,Migraine,17
+Dr. Manisha Patil,"MBBS, MS",Patna,Migraine,21
+Dr. Ajay Chauhan,"MBBS, MD",Patna,Migraine,25
+Dr. Anjali Reddy,MD,Ranchi,Migraine,10
+Dr. Kavita Rao,MBBS,Ranchi,Migraine,25
+Dr. Amit Gupta,DM,Bhubaneswar,Migraine,29
+Dr. Arun Joshi,DM,Bhubaneswar,Migraine,18
+Dr. Sunita Roy,"MD, DM",Cochin,Migraine,29
+Dr. Manisha Patil,"MD, DM",Cochin,Migraine,18
+Dr. Sanjay Kumar,"MD, DM",Guwahati,Migraine,24
+Dr. Manisha Patil,MD,Guwahati,Migraine,14
+Dr. Sanjay Kumar,DM,Mumbai,Cervical spondylosis,34
+Dr. Rajesh Sharma,MS,Mumbai,Cervical spondylosis,13
+Dr. Kavita Rao,"MBBS, MS",Delhi,Cervical spondylosis,25
+Dr. Vivek Chawla,DM,Delhi,Cervical spondylosis,32
+Dr. Swati Sinha,MBBS,Bangalore,Cervical spondylosis,34
+Dr. Anil Mehta,MD,Bangalore,Cervical spondylosis,32
+Dr. Manisha Patil,"MBBS, DNB",Kolkata,Cervical spondylosis,25
+Dr. Ritu Kapoor,"MBBS, DNB",Kolkata,Cervical spondylosis,10
+Dr. Rahul Bansal,DM,Chennai,Cervical spondylosis,13
+Dr. Preeti Desai,MD,Chennai,Cervical spondylosis,6
+Dr. Sanjay Kumar,"MBBS, DNB",Hyderabad,Cervical spondylosis,8
+Dr. Anil Mehta,MBBS,Hyderabad,Cervical spondylosis,18
+Dr. Sunita Roy,MS,Ahmedabad,Cervical spondylosis,8
+Dr. Preeti Desai,MBBS,Ahmedabad,Cervical spondylosis,17
+Dr. Ritu Kapoor,"MBBS, MS",Pune,Cervical spondylosis,8
+Dr. Sunita Roy,MS,Pune,Cervical spondylosis,7
+Dr. Ajay Chauhan,MBBS,Jaipur,Cervical spondylosis,7
+Dr. Rahul Bansal,DM,Jaipur,Cervical spondylosis,9
+Dr. Preeti Desai,MD,Lucknow,Cervical spondylosis,25
+Dr. Preeti Desai,"MBBS, MD",Lucknow,Cervical spondylosis,15
+Dr. Vivek Chawla,MD,Kanpur,Cervical spondylosis,23
+Dr. Deepa Menon,MS,Kanpur,Cervical spondylosis,6
+Dr. Amit Gupta,MBBS,Nagpur,Cervical spondylosis,34
+Dr. Neha Verma,"MD, DM",Nagpur,Cervical spondylosis,14
+Dr. Anjali Reddy,MD,Indore,Cervical spondylosis,9
+Dr. Anjali Reddy,"MBBS, MS",Indore,Cervical spondylosis,9
+Dr. Amit Gupta,"MBBS, DNB",Bhopal,Cervical spondylosis,21
+Dr. Rahul Bansal,MD,Bhopal,Cervical spondylosis,23
+Dr. Anil Mehta,MD,Visakhapatnam,Cervical spondylosis,24
+Dr. Ajay Chauhan,MBBS,Visakhapatnam,Cervical spondylosis,6
+Dr. Anil Mehta,DM,Patna,Cervical spondylosis,15
+Dr. Rahul Bansal,DM,Patna,Cervical spondylosis,30
+Dr. Deepa Menon,"MBBS, DNB",Ranchi,Cervical spondylosis,20
+Dr. Pankaj Jain,"MBBS, MS",Ranchi,Cervical spondylosis,30
+Dr. Anjali Reddy,MS,Bhubaneswar,Cervical spondylosis,18
+Dr. Swati Sinha,"MBBS, MS",Bhubaneswar,Cervical spondylosis,14
+Dr. Deepa Menon,"MD, DM",Cochin,Cervical spondylosis,14
+Dr. Rajesh Sharma,"MBBS, MD",Cochin,Cervical spondylosis,6
+Dr. Neha Verma,MD,Guwahati,Cervical spondylosis,17
+Dr. Vivek Chawla,MD,Guwahati,Cervical spondylosis,18
+Dr. Sanjay Kumar,"MD, DM",Mumbai,Paralysis (brain hemorrhage),22
+Dr. Sunita Roy,"MD, DM",Mumbai,Paralysis (brain hemorrhage),24
+Dr. Deepa Menon,MS,Delhi,Paralysis (brain hemorrhage),25
+Dr. Vikas Tiwari,DM,Delhi,Paralysis (brain hemorrhage),5
+Dr. Kavita Rao,"MD, DM",Bangalore,Paralysis (brain hemorrhage),16
+Dr. Kavita Rao,"MD, DM",Bangalore,Paralysis (brain hemorrhage),30
+Dr. Preeti Desai,MBBS,Kolkata,Paralysis (brain hemorrhage),22
+Dr. Rahul Bansal,"MBBS, MS",Kolkata,Paralysis (brain hemorrhage),8
+Dr. Sanjay Kumar,MD,Chennai,Paralysis (brain hemorrhage),15
+Dr. Anil Mehta,"MD, DM",Chennai,Paralysis (brain hemorrhage),19
+Dr. Sunita Roy,DM,Hyderabad,Paralysis (brain hemorrhage),29
+Dr. Preeti Desai,MS,Hyderabad,Paralysis (brain hemorrhage),10
+Dr. Manisha Patil,MS,Ahmedabad,Paralysis (brain hemorrhage),25
+Dr. Vikas Tiwari,MD,Ahmedabad,Paralysis (brain hemorrhage),6
+Dr. Sunita Roy,MBBS,Pune,Paralysis (brain hemorrhage),25
+Dr. Deepa Menon,"MBBS, MD",Pune,Paralysis (brain hemorrhage),8
+Dr. Pankaj Jain,"MBBS, MS",Jaipur,Paralysis (brain hemorrhage),35
+Dr. Rahul Bansal,"MBBS, DNB",Jaipur,Paralysis (brain hemorrhage),31
+Dr. Rajesh Sharma,MS,Lucknow,Paralysis (brain hemorrhage),18
+Dr. Priya Singh,DM,Lucknow,Paralysis (brain hemorrhage),21
+Dr. Ritu Kapoor,"MBBS, DNB",Kanpur,Paralysis (brain hemorrhage),7
+Dr. Swati Sinha,MD,Kanpur,Paralysis (brain hemorrhage),35
+Dr. Rahul Bansal,MS,Nagpur,Paralysis (brain hemorrhage),8
+Dr. Deepa Menon,MS,Nagpur,Paralysis (brain hemorrhage),29
+Dr. Neha Verma,MBBS,Indore,Paralysis (brain hemorrhage),33
+Dr. Pankaj Jain,"MD, DM",Indore,Paralysis (brain hemorrhage),14
+Dr. Anjali Reddy,MD,Bhopal,Paralysis (brain hemorrhage),15
+Dr. Manisha Patil,"MBBS, MD",Bhopal,Paralysis (brain hemorrhage),30
+Dr. Priya Singh,"MD, DM",Visakhapatnam,Paralysis (brain hemorrhage),14
+Dr. Preeti Desai,MD,Visakhapatnam,Paralysis (brain hemorrhage),28
+Dr. Vikas Tiwari,MS,Patna,Paralysis (brain hemorrhage),23
+Dr. Manisha Patil,DM,Patna,Paralysis (brain hemorrhage),14
+Dr. Anil Mehta,DM,Ranchi,Paralysis (brain hemorrhage),18
+Dr. Rahul Bansal,DM,Ranchi,Paralysis (brain hemorrhage),14
+Dr. Swati Sinha,"MD, DM",Bhubaneswar,Paralysis (brain hemorrhage),29
+Dr. Anil Mehta,"MBBS, DNB",Bhubaneswar,Paralysis (brain hemorrhage),24
+Dr. Ritu Kapoor,"MBBS, MD",Cochin,Paralysis (brain hemorrhage),24
+Dr. Ajay Chauhan,"MBBS, DNB",Cochin,Paralysis (brain hemorrhage),22
+Dr. Neha Verma,MS,Guwahati,Paralysis (brain hemorrhage),33
+Dr. Rajesh Sharma,DM,Guwahati,Paralysis (brain hemorrhage),29
+Dr. Swati Sinha,"MBBS, DNB",Mumbai,Jaundice,24
+Dr. Kavita Rao,MBBS,Mumbai,Jaundice,6
+Dr. Amit Gupta,MS,Delhi,Jaundice,29
+Dr. Neha Verma,MS,Delhi,Jaundice,35
+Dr. Manisha Patil,MBBS,Bangalore,Jaundice,34
+Dr. Ritu Kapoor,MBBS,Bangalore,Jaundice,29
+Dr. Sunita Roy,"MBBS, MD",Kolkata,Jaundice,7
+Dr. Priya Singh,MBBS,Kolkata,Jaundice,10
+Dr. Ritu Kapoor,"MBBS, MD",Chennai,Jaundice,23
+Dr. Sanjay Kumar,MS,Chennai,Jaundice,23
+Dr. Manisha Patil,MBBS,Hyderabad,Jaundice,11
+Dr. Swati Sinha,MS,Hyderabad,Jaundice,24
+Dr. Pankaj Jain,"MBBS, DNB",Ahmedabad,Jaundice,18
+Dr. Anil Mehta,"MBBS, DNB",Ahmedabad,Jaundice,6
+Dr. Preeti Desai,"MBBS, MD",Pune,Jaundice,13
+Dr. Anjali Reddy,"MBBS, MD",Pune,Jaundice,20
+Dr. Pankaj Jain,"MBBS, MS",Jaipur,Jaundice,8
+Dr. Rajesh Sharma,"MBBS, MD",Jaipur,Jaundice,20
+Dr. Neha Verma,"MBBS, DNB",Lucknow,Jaundice,21
+Dr. Preeti Desai,DM,Lucknow,Jaundice,34
+Dr. Priya Singh,MD,Kanpur,Jaundice,22
+Dr. Vivek Chawla,"MBBS, DNB",Kanpur,Jaundice,11
+Dr. Sunita Roy,"MD, DM",Nagpur,Jaundice,13
+Dr. Deepa Menon,MS,Nagpur,Jaundice,16
+Dr. Amit Gupta,MS,Indore,Jaundice,15
+Dr. Vikas Tiwari,"MBBS, MS",Indore,Jaundice,14
+Dr. Manisha Patil,"MBBS, MD",Bhopal,Jaundice,14
+Dr. Rahul Bansal,"MBBS, DNB",Bhopal,Jaundice,6
+Dr. Deepa Menon,DM,Visakhapatnam,Jaundice,18
+Dr. Neha Verma,DM,Visakhapatnam,Jaundice,18
+Dr. Neha Verma,"MD, DM",Patna,Jaundice,20
+Dr. Manisha Patil,"MBBS, MD",Patna,Jaundice,28
+Dr. Manisha Patil,"MBBS, MD",Ranchi,Jaundice,22
+Dr. Pankaj Jain,"MD, DM",Ranchi,Jaundice,34
+Dr. Vikas Tiwari,"MBBS, DNB",Bhubaneswar,Jaundice,8
+Dr. Manisha Patil,MBBS,Bhubaneswar,Jaundice,29
+Dr. Vivek Chawla,"MD, DM",Cochin,Jaundice,29
+Dr. Anil Mehta,"MD, DM",Cochin,Jaundice,8
+Dr. Anjali Reddy,"MBBS, MD",Guwahati,Jaundice,26
+Dr. Sunita Roy,"MBBS, MD",Guwahati,Jaundice,9
+Dr. Neha Verma,"MBBS, MS",Mumbai,Malaria,23
+Dr. Vikas Tiwari,MBBS,Mumbai,Malaria,21
+Dr. Vikas Tiwari,"MD, DM",Delhi,Malaria,26
+Dr. Amit Gupta,"MBBS, MD",Delhi,Malaria,17
+Dr. Deepa Menon,MS,Bangalore,Malaria,8
+Dr. Ritu Kapoor,"MD, DM",Bangalore,Malaria,20
+Dr. Vivek Chawla,"MBBS, DNB",Kolkata,Malaria,8
+Dr. Vikas Tiwari,"MD, DM",Kolkata,Malaria,17
+Dr. Preeti Desai,DM,Chennai,Malaria,29
+Dr. Neha Verma,"MBBS, MD",Chennai,Malaria,25
+Dr. Pankaj Jain,MS,Hyderabad,Malaria,16
+Dr. Pankaj Jain,"MBBS, MS",Hyderabad,Malaria,22
+Dr. Neha Verma,MS,Ahmedabad,Malaria,22
+Dr. Anjali Reddy,DM,Ahmedabad,Malaria,18
+Dr. Sanjay Kumar,"MD, DM",Pune,Malaria,15
+Dr. Deepa Menon,MS,Pune,Malaria,6
+Dr. Kavita Rao,MD,Jaipur,Malaria,20
+Dr. Manisha Patil,MBBS,Jaipur,Malaria,25
+Dr. Neha Verma,"MBBS, MD",Lucknow,Malaria,30
+Dr. Anjali Reddy,"MD, DM",Lucknow,Malaria,29
+Dr. Kavita Rao,"MBBS, MD",Kanpur,Malaria,18
+Dr. Sunita Roy,MD,Kanpur,Malaria,21
+Dr. Arun Joshi,"MBBS, DNB",Nagpur,Malaria,35
+Dr. Ritu Kapoor,"MBBS, MS",Nagpur,Malaria,32
+Dr. Priya Singh,"MBBS, DNB",Indore,Malaria,6
+Dr. Anjali Reddy,DM,Indore,Malaria,21
+Dr. Vivek Chawla,"MBBS, MD",Bhopal,Malaria,23
+Dr. Sunita Roy,"MBBS, DNB",Bhopal,Malaria,34
+Dr. Rahul Bansal,"MD, DM",Visakhapatnam,Malaria,10
+Dr. Ajay Chauhan,MBBS,Visakhapatnam,Malaria,34
+Dr. Priya Singh,"MD, DM",Patna,Malaria,19
+Dr. Kavita Rao,MS,Patna,Malaria,5
+Dr. Priya Singh,"MBBS, DNB",Ranchi,Malaria,24
+Dr. Anil Mehta,"MBBS, MD",Ranchi,Malaria,10
+Dr. Anjali Reddy,MS,Bhubaneswar,Malaria,24
+Dr. Ajay Chauhan,MS,Bhubaneswar,Malaria,14
+Dr. Rahul Bansal,MBBS,Cochin,Malaria,13
+Dr. Rajesh Sharma,"MBBS, DNB",Cochin,Malaria,21
+Dr. Rahul Bansal,"MD, DM",Guwahati,Malaria,13
+Dr. Deepa Menon,MBBS,Guwahati,Malaria,14
+Dr. Amit Gupta,MD,Mumbai,Chicken pox,15
+Dr. Rajesh Sharma,"MBBS, MS",Mumbai,Chicken pox,18
+Dr. Amit Gupta,"MBBS, MD",Delhi,Chicken pox,7
+Dr. Neha Verma,MBBS,Delhi,Chicken pox,7
+Dr. Neha Verma,"MBBS, DNB",Bangalore,Chicken pox,33
+Dr. Ritu Kapoor,DM,Bangalore,Chicken pox,32
+Dr. Kavita Rao,MS,Kolkata,Chicken pox,30
+Dr. Anil Mehta,DM,Kolkata,Chicken pox,18
+Dr. Vivek Chawla,"MD, DM",Chennai,Chicken pox,25
+Dr. Preeti Desai,"MD, DM",Chennai,Chicken pox,6
+Dr. Vivek Chawla,"MBBS, MD",Hyderabad,Chicken pox,23
+Dr. Neha Verma,"MBBS, DNB",Hyderabad,Chicken pox,6
+Dr. Rahul Bansal,"MD, DM",Ahmedabad,Chicken pox,17
+Dr. Anil Mehta,MS,Ahmedabad,Chicken pox,14
+Dr. Preeti Desai,"MBBS, DNB",Pune,Chicken pox,23
+Dr. Vikas Tiwari,"MD, DM",Pune,Chicken pox,7
+Dr. Kavita Rao,"MBBS, MD",Jaipur,Chicken pox,11
+Dr. Manisha Patil,DM,Jaipur,Chicken pox,18
+Dr. Priya Singh,MD,Lucknow,Chicken pox,30
+Dr. Manisha Patil,DM,Lucknow,Chicken pox,26
+Dr. Amit Gupta,DM,Kanpur,Chicken pox,14
+Dr. Arun Joshi,"MBBS, DNB",Kanpur,Chicken pox,21
+Dr. Manisha Patil,MS,Nagpur,Chicken pox,5
+Dr. Sanjay Kumar,MS,Nagpur,Chicken pox,6
+Dr. Vivek Chawla,"MD, DM",Indore,Chicken pox,9
+Dr. Ajay Chauhan,MS,Indore,Chicken pox,26
+Dr. Preeti Desai,MBBS,Bhopal,Chicken pox,19
+Dr. Anil Mehta,DM,Bhopal,Chicken pox,30
+Dr. Priya Singh,"MBBS, MS",Visakhapatnam,Chicken pox,14
+Dr. Kavita Rao,"MBBS, MS",Visakhapatnam,Chicken pox,29
+Dr. Priya Singh,"MBBS, MS",Patna,Chicken pox,23
+Dr. Kavita Rao,"MBBS, MD",Patna,Chicken pox,13
+Dr. Sanjay Kumar,"MD, DM",Ranchi,Chicken pox,8
+Dr. Ritu Kapoor,MS,Ranchi,Chicken pox,24
+Dr. Anil Mehta,MBBS,Bhubaneswar,Chicken pox,6
+Dr. Pankaj Jain,"MBBS, MS",Bhubaneswar,Chicken pox,29
+Dr. Rahul Bansal,"MD, DM",Cochin,Chicken pox,23
+Dr. Rajesh Sharma,MD,Cochin,Chicken pox,9
+Dr. Ajay Chauhan,"MD, DM",Guwahati,Chicken pox,23
+Dr. Arun Joshi,"MBBS, MD",Guwahati,Chicken pox,34
+Dr. Kavita Rao,DM,Mumbai,Dengue,24
+Dr. Ajay Chauhan,MD,Mumbai,Dengue,6
+Dr. Vikas Tiwari,DM,Delhi,Dengue,29
+Dr. Anil Mehta,"MBBS, MD",Delhi,Dengue,5
+Dr. Vikas Tiwari,"MD, DM",Bangalore,Dengue,34
+Dr. Neha Verma,MD,Bangalore,Dengue,30
+Dr. Amit Gupta,"MBBS, MS",Kolkata,Dengue,35
+Dr. Manisha Patil,MD,Kolkata,Dengue,13
+Dr. Deepa Menon,MS,Chennai,Dengue,22
+Dr. Amit Gupta,"MBBS, MS",Chennai,Dengue,9
+Dr. Vikas Tiwari,DM,Hyderabad,Dengue,29
+Dr. Manisha Patil,MBBS,Hyderabad,Dengue,30
+Dr. Amit Gupta,"MBBS, MD",Ahmedabad,Dengue,22
+Dr. Sunita Roy,"MD, DM",Ahmedabad,Dengue,31
+Dr. Deepa Menon,MBBS,Pune,Dengue,24
+Dr. Priya Singh,MD,Pune,Dengue,8
+Dr. Anjali Reddy,"MBBS, MS",Jaipur,Dengue,29
+Dr. Ajay Chauhan,"MD, DM",Jaipur,Dengue,30
+Dr. Preeti Desai,MBBS,Lucknow,Dengue,6
+Dr. Sunita Roy,"MBBS, MD",Lucknow,Dengue,19
+Dr. Manisha Patil,"MBBS, DNB",Kanpur,Dengue,35
+Dr. Manisha Patil,"MBBS, MD",Kanpur,Dengue,20
+Dr. Manisha Patil,MBBS,Nagpur,Dengue,13
+Dr. Amit Gupta,"MD, DM",Nagpur,Dengue,21
+Dr. Preeti Desai,MBBS,Indore,Dengue,9
+Dr. Pankaj Jain,MD,Indore,Dengue,32
+Dr. Vivek Chawla,MS,Bhopal,Dengue,22
+Dr. Kavita Rao,"MBBS, DNB",Bhopal,Dengue,10
+Dr. Anjali Reddy,DM,Visakhapatnam,Dengue,29
+Dr. Vivek Chawla,MD,Visakhapatnam,Dengue,31
+Dr. Vikas Tiwari,"MD, DM",Patna,Dengue,14
+Dr. Manisha Patil,"MD, DM",Patna,Dengue,18
+Dr. Sunita Roy,"MD, DM",Ranchi,Dengue,18
+Dr. Anjali Reddy,"MBBS, MS",Ranchi,Dengue,25
+Dr. Amit Gupta,MS,Bhubaneswar,Dengue,23
+Dr. Ritu Kapoor,MS,Bhubaneswar,Dengue,21
+Dr. Manisha Patil,"MBBS, MD",Cochin,Dengue,30
+Dr. Ajay Chauhan,"MBBS, MD",Cochin,Dengue,9
+Dr. Sunita Roy,MBBS,Guwahati,Dengue,18
+Dr. Deepa Menon,"MBBS, MS",Guwahati,Dengue,25
+Dr. Anjali Reddy,MBBS,Mumbai,Typhoid,7
+Dr. Sunita Roy,MS,Mumbai,Typhoid,11
+Dr. Rajesh Sharma,"MBBS, MS",Delhi,Typhoid,8
+Dr. Pankaj Jain,MD,Delhi,Typhoid,22
+Dr. Anil Mehta,MD,Bangalore,Typhoid,18
+Dr. Ajay Chauhan,DM,Bangalore,Typhoid,29
+Dr. Anjali Reddy,DM,Kolkata,Typhoid,25
+Dr. Deepa Menon,"MD, DM",Kolkata,Typhoid,35
+Dr. Rajesh Sharma,MBBS,Chennai,Typhoid,13
+Dr. Arun Joshi,"MD, DM",Chennai,Typhoid,20
+Dr. Ritu Kapoor,MS,Hyderabad,Typhoid,17
+Dr. Kavita Rao,"MBBS, MS",Hyderabad,Typhoid,7
+Dr. Manisha Patil,"MBBS, DNB",Ahmedabad,Typhoid,17
+Dr. Vivek Chawla,"MD, DM",Ahmedabad,Typhoid,6
+Dr. Kavita Rao,"MBBS, MD",Pune,Typhoid,18
+Dr. Neha Verma,"MBBS, MD",Pune,Typhoid,9
+Dr. Swati Sinha,"MBBS, MS",Jaipur,Typhoid,20
+Dr. Rahul Bansal,"MBBS, MD",Jaipur,Typhoid,28
+Dr. Priya Singh,DM,Lucknow,Typhoid,30
+Dr. Anjali Reddy,DM,Lucknow,Typhoid,14
+Dr. Ajay Chauhan,"MBBS, MS",Kanpur,Typhoid,23
+Dr. Neha Verma,"MBBS, DNB",Kanpur,Typhoid,30
+Dr. Arun Joshi,"MBBS, MS",Nagpur,Typhoid,14
+Dr. Manisha Patil,MS,Nagpur,Typhoid,14
+Dr. Manisha Patil,"MD, DM",Indore,Typhoid,35
+Dr. Anil Mehta,MS,Indore,Typhoid,35
+Dr. Ajay Chauhan,"MD, DM",Bhopal,Typhoid,17
+Dr. Priya Singh,"MBBS, MD",Bhopal,Typhoid,22
+Dr. Kavita Rao,"MBBS, DNB",Visakhapatnam,Typhoid,34
+Dr. Swati Sinha,"MBBS, DNB",Visakhapatnam,Typhoid,20
+Dr. Arun Joshi,"MBBS, MS",Patna,Typhoid,29
+Dr. Ritu Kapoor,MD,Patna,Typhoid,17
+Dr. Vivek Chawla,DM,Ranchi,Typhoid,13
+Dr. Ajay Chauhan,"MD, DM",Ranchi,Typhoid,20
+Dr. Preeti Desai,"MBBS, MD",Bhubaneswar,Typhoid,31
+Dr. Rajesh Sharma,MS,Bhubaneswar,Typhoid,26
+Dr. Anil Mehta,DM,Cochin,Typhoid,6
+Dr. Vivek Chawla,"MD, DM",Cochin,Typhoid,7
+Dr. Manisha Patil,"MBBS, DNB",Guwahati,Typhoid,23
+Dr. Preeti Desai,"MBBS, DNB",Guwahati,Typhoid,24
+Dr. Rahul Bansal,MD,Mumbai,hepatitis A,29
+Dr. Vikas Tiwari,DM,Mumbai,hepatitis A,34
+Dr. Ritu Kapoor,MD,Delhi,hepatitis A,32
+Dr. Sunita Roy,"MBBS, MS",Delhi,hepatitis A,9
+Dr. Sanjay Kumar,"MBBS, MS",Bangalore,hepatitis A,14
+Dr. Vivek Chawla,"MBBS, MS",Bangalore,hepatitis A,8
+Dr. Anil Mehta,"MBBS, MD",Kolkata,hepatitis A,23
+Dr. Amit Gupta,"MBBS, DNB",Kolkata,hepatitis A,8
+Dr. Ritu Kapoor,"MBBS, DNB",Chennai,hepatitis A,13
+Dr. Ritu Kapoor,"MD, DM",Chennai,hepatitis A,6
+Dr. Priya Singh,"MBBS, MS",Hyderabad,hepatitis A,18
+Dr. Sunita Roy,MS,Hyderabad,hepatitis A,8
+Dr. Deepa Menon,"MBBS, MD",Ahmedabad,hepatitis A,14
+Dr. Ajay Chauhan,"MD, DM",Ahmedabad,hepatitis A,29
+Dr. Anjali Reddy,"MBBS, DNB",Pune,hepatitis A,30
+Dr. Ajay Chauhan,MD,Pune,hepatitis A,17
+Dr. Anjali Reddy,MBBS,Jaipur,hepatitis A,25
+Dr. Kavita Rao,MD,Jaipur,hepatitis A,29
+Dr. Ajay Chauhan,DM,Lucknow,hepatitis A,17
+Dr. Anjali Reddy,MBBS,Lucknow,hepatitis A,33
+Dr. Pankaj Jain,"MBBS, DNB",Kanpur,hepatitis A,6
+Dr. Preeti Desai,MS,Kanpur,hepatitis A,9
+Dr. Sanjay Kumar,"MBBS, MD",Nagpur,hepatitis A,21
+Dr. Sunita Roy,"MD, DM",Nagpur,hepatitis A,8
+Dr. Amit Gupta,"MD, DM",Indore,hepatitis A,34
+Dr. Amit Gupta,MBBS,Indore,hepatitis A,33
+Dr. Anil Mehta,"MBBS, DNB",Bhopal,hepatitis A,23
+Dr. Vikas Tiwari,"MBBS, MD",Bhopal,hepatitis A,6
+Dr. Pankaj Jain,"MD, DM",Visakhapatnam,hepatitis A,13
+Dr. Rahul Bansal,DM,Visakhapatnam,hepatitis A,9
+Dr. Priya Singh,MBBS,Patna,hepatitis A,8
+Dr. Pankaj Jain,MD,Patna,hepatitis A,18
+Dr. Ritu Kapoor,"MBBS, DNB",Ranchi,hepatitis A,35
+Dr. Swati Sinha,MD,Ranchi,hepatitis A,34
+Dr. Neha Verma,DM,Bhubaneswar,hepatitis A,29
+Dr. Anil Mehta,"MD, DM",Bhubaneswar,hepatitis A,13
+Dr. Priya Singh,DM,Cochin,hepatitis A,23
+Dr. Priya Singh,"MBBS, DNB",Cochin,hepatitis A,6
+Dr. Rajesh Sharma,DM,Guwahati,hepatitis A,29
+Dr. Sunita Roy,"MD, DM",Guwahati,hepatitis A,30
+Dr. Anil Mehta,"MBBS, MD",Mumbai,Hepatitis B,11
+Dr. Manisha Patil,"MBBS, DNB",Mumbai,Hepatitis B,18
+Dr. Vikas Tiwari,MS,Delhi,Hepatitis B,14
+Dr. Sanjay Kumar,"MD, DM",Delhi,Hepatitis B,6
+Dr. Preeti Desai,"MBBS, MS",Bangalore,Hepatitis B,10
+Dr. Manisha Patil,MBBS,Bangalore,Hepatitis B,14
+Dr. Arun Joshi,"MD, DM",Kolkata,Hepatitis B,26
+Dr. Pankaj Jain,"MD, DM",Kolkata,Hepatitis B,16
+Dr. Rahul Bansal,"MBBS, MD",Chennai,Hepatitis B,34
+Dr. Ritu Kapoor,MS,Chennai,Hepatitis B,25
+Dr. Manisha Patil,MS,Hyderabad,Hepatitis B,13
+Dr. Rahul Bansal,DM,Hyderabad,Hepatitis B,9
+Dr. Pankaj Jain,"MBBS, DNB",Ahmedabad,Hepatitis B,5
+Dr. Preeti Desai,"MD, DM",Ahmedabad,Hepatitis B,15
+Dr. Vivek Chawla,"MBBS, MS",Pune,Hepatitis B,18
+Dr. Sanjay Kumar,"MD, DM",Pune,Hepatitis B,18
+Dr. Ritu Kapoor,MBBS,Jaipur,Hepatitis B,29
+Dr. Pankaj Jain,"MBBS, MD",Jaipur,Hepatitis B,17
+Dr. Rajesh Sharma,"MD, DM",Lucknow,Hepatitis B,7
+Dr. Ajay Chauhan,MS,Lucknow,Hepatitis B,5
+Dr. Amit Gupta,DM,Kanpur,Hepatitis B,19
+Dr. Preeti Desai,MD,Kanpur,Hepatitis B,7
+Dr. Pankaj Jain,"MBBS, DNB",Nagpur,Hepatitis B,6
+Dr. Arun Joshi,"MD, DM",Nagpur,Hepatitis B,6
+Dr. Ritu Kapoor,"MBBS, MD",Indore,Hepatitis B,24
+Dr. Deepa Menon,MD,Indore,Hepatitis B,35
+Dr. Rahul Bansal,"MD, DM",Bhopal,Hepatitis B,18
+Dr. Rahul Bansal,"MBBS, MS",Bhopal,Hepatitis B,6
+Dr. Kavita Rao,MBBS,Visakhapatnam,Hepatitis B,29
+Dr. Anil Mehta,MS,Visakhapatnam,Hepatitis B,6
+Dr. Vivek Chawla,DM,Patna,Hepatitis B,16
+Dr. Swati Sinha,"MD, DM",Patna,Hepatitis B,25
+Dr. Manisha Patil,"MBBS, MD",Ranchi,Hepatitis B,29
+Dr. Sunita Roy,"MBBS, MS",Ranchi,Hepatitis B,18
+Dr. Rahul Bansal,MBBS,Bhubaneswar,Hepatitis B,26
+Dr. Sanjay Kumar,"MD, DM",Bhubaneswar,Hepatitis B,8
+Dr. Deepa Menon,MD,Cochin,Hepatitis B,25
+Dr. Anjali Reddy,MS,Cochin,Hepatitis B,7
+Dr. Arun Joshi,MS,Guwahati,Hepatitis B,14
+Dr. Priya Singh,"MBBS, DNB",Guwahati,Hepatitis B,23
+Dr. Kavita Rao,"MBBS, MS",Mumbai,Hepatitis C,9
+Dr. Anil Mehta,"MBBS, DNB",Mumbai,Hepatitis C,18
+Dr. Ajay Chauhan,"MD, DM",Delhi,Hepatitis C,20
+Dr. Rahul Bansal,"MBBS, MS",Delhi,Hepatitis C,22
+Dr. Vikas Tiwari,"MD, DM",Bangalore,Hepatitis C,18
+Dr. Manisha Patil,"MBBS, DNB",Bangalore,Hepatitis C,10
+Dr. Anil Mehta,MS,Kolkata,Hepatitis C,15
+Dr. Sunita Roy,MD,Kolkata,Hepatitis C,13
+Dr. Deepa Menon,"MBBS, DNB",Chennai,Hepatitis C,13
+Dr. Ritu Kapoor,MS,Chennai,Hepatitis C,18
+Dr. Anjali Reddy,"MBBS, DNB",Hyderabad,Hepatitis C,5
+Dr. Arun Joshi,MBBS,Hyderabad,Hepatitis C,24
+Dr. Vivek Chawla,"MBBS, MS",Ahmedabad,Hepatitis C,6
+Dr. Amit Gupta,MD,Ahmedabad,Hepatitis C,25
+Dr. Sanjay Kumar,MD,Pune,Hepatitis C,8
+Dr. Pankaj Jain,DM,Pune,Hepatitis C,5
+Dr. Manisha Patil,DM,Jaipur,Hepatitis C,24
+Dr. Vikas Tiwari,"MBBS, MS",Jaipur,Hepatitis C,14
+Dr. Pankaj Jain,"MD, DM",Lucknow,Hepatitis C,34
+Dr. Sanjay Kumar,MD,Lucknow,Hepatitis C,29
+Dr. Neha Verma,MD,Kanpur,Hepatitis C,11
+Dr. Deepa Menon,MBBS,Kanpur,Hepatitis C,6
+Dr. Rahul Bansal,DM,Nagpur,Hepatitis C,30
+Dr. Rajesh Sharma,"MBBS, MD",Nagpur,Hepatitis C,6
+Dr. Kavita Rao,MBBS,Indore,Hepatitis C,25
+Dr. Preeti Desai,MS,Indore,Hepatitis C,8
+Dr. Swati Sinha,"MBBS, MD",Bhopal,Hepatitis C,25
+Dr. Sanjay Kumar,"MBBS, MS",Bhopal,Hepatitis C,14
+Dr. Sunita Roy,MS,Visakhapatnam,Hepatitis C,7
+Dr. Kavita Rao,MBBS,Visakhapatnam,Hepatitis C,6
+Dr. Anjali Reddy,"MD, DM",Patna,Hepatitis C,22
+Dr. Anjali Reddy,DM,Patna,Hepatitis C,30
+Dr. Manisha Patil,MD,Ranchi,Hepatitis C,14
+Dr. Rahul Bansal,"MBBS, MD",Ranchi,Hepatitis C,24
+Dr. Preeti Desai,"MBBS, DNB",Bhubaneswar,Hepatitis C,30
+Dr. Vivek Chawla,MS,Bhubaneswar,Hepatitis C,29
+Dr. Anjali Reddy,MS,Cochin,Hepatitis C,5
+Dr. Deepa Menon,"MBBS, DNB",Cochin,Hepatitis C,6
+Dr. Neha Verma,MBBS,Guwahati,Hepatitis C,29
+Dr. Rahul Bansal,"MBBS, MD",Guwahati,Hepatitis C,6
+Dr. Sunita Roy,"MBBS, DNB",Mumbai,Hepatitis D,17
+Dr. Anjali Reddy,"MBBS, MS",Mumbai,Hepatitis D,24
+Dr. Vivek Chawla,MD,Delhi,Hepatitis D,35
+Dr. Anil Mehta,MD,Delhi,Hepatitis D,30
+Dr. Ajay Chauhan,"MBBS, DNB",Bangalore,Hepatitis D,24
+Dr. Neha Verma,MD,Bangalore,Hepatitis D,30
+Dr. Anil Mehta,"MBBS, DNB",Kolkata,Hepatitis D,24
+Dr. Rajesh Sharma,"MD, DM",Kolkata,Hepatitis D,29
+Dr. Anjali Reddy,"MD, DM",Chennai,Hepatitis D,15
+Dr. Ajay Chauhan,"MBBS, DNB",Chennai,Hepatitis D,33
+Dr. Vivek Chawla,MD,Hyderabad,Hepatitis D,16
+Dr. Pankaj Jain,MD,Hyderabad,Hepatitis D,29
+Dr. Deepa Menon,DM,Ahmedabad,Hepatitis D,8
+Dr. Sunita Roy,"MBBS, DNB",Ahmedabad,Hepatitis D,26
+Dr. Ajay Chauhan,"MBBS, MD",Pune,Hepatitis D,21
+Dr. Neha Verma,"MBBS, MD",Pune,Hepatitis D,18
+Dr. Rahul Bansal,MBBS,Jaipur,Hepatitis D,32
+Dr. Sunita Roy,DM,Jaipur,Hepatitis D,8
+Dr. Rajesh Sharma,MD,Lucknow,Hepatitis D,25
+Dr. Neha Verma,"MBBS, DNB",Lucknow,Hepatitis D,29
+Dr. Amit Gupta,"MBBS, DNB",Kanpur,Hepatitis D,20
+Dr. Manisha Patil,MS,Kanpur,Hepatitis D,8
+Dr. Sanjay Kumar,"MBBS, MS",Nagpur,Hepatitis D,17
+Dr. Sunita Roy,"MBBS, MD",Nagpur,Hepatitis D,22
+Dr. Rajesh Sharma,DM,Indore,Hepatitis D,29
+Dr. Arun Joshi,DM,Indore,Hepatitis D,29
+Dr. Swati Sinha,MBBS,Bhopal,Hepatitis D,18
+Dr. Pankaj Jain,"MBBS, MS",Bhopal,Hepatitis D,6
+Dr. Arun Joshi,MS,Visakhapatnam,Hepatitis D,30
+Dr. Deepa Menon,MD,Visakhapatnam,Hepatitis D,24
+Dr. Vikas Tiwari,MD,Patna,Hepatitis D,29
+Dr. Sanjay Kumar,MD,Patna,Hepatitis D,14
+Dr. Anjali Reddy,"MBBS, MS",Ranchi,Hepatitis D,32
+Dr. Arun Joshi,DM,Ranchi,Hepatitis D,32
+Dr. Ritu Kapoor,"MBBS, DNB",Bhubaneswar,Hepatitis D,23
+Dr. Sunita Roy,"MBBS, MS",Bhubaneswar,Hepatitis D,20
+Dr. Neha Verma,"MBBS, MD",Cochin,Hepatitis D,26
+Dr. Preeti Desai,"MBBS, DNB",Cochin,Hepatitis D,34
+Dr. Sunita Roy,"MBBS, MS",Guwahati,Hepatitis D,21
+Dr. Amit Gupta,MD,Guwahati,Hepatitis D,6
+Dr. Vivek Chawla,MS,Mumbai,Hepatitis E,30
+Dr. Anil Mehta,MBBS,Mumbai,Hepatitis E,14
+Dr. Sanjay Kumar,"MBBS, MD",Delhi,Hepatitis E,25
+Dr. Arun Joshi,MBBS,Delhi,Hepatitis E,29
+Dr. Anjali Reddy,MS,Bangalore,Hepatitis E,21
+Dr. Amit Gupta,MD,Bangalore,Hepatitis E,9
+Dr. Vikas Tiwari,MD,Kolkata,Hepatitis E,18
+Dr. Neha Verma,"MD, DM",Kolkata,Hepatitis E,25
+Dr. Manisha Patil,DM,Chennai,Hepatitis E,10
+Dr. Kavita Rao,MD,Chennai,Hepatitis E,31
+Dr. Sanjay Kumar,"MBBS, DNB",Hyderabad,Hepatitis E,29
+Dr. Anjali Reddy,"MBBS, DNB",Hyderabad,Hepatitis E,5
+Dr. Swati Sinha,DM,Ahmedabad,Hepatitis E,29
+Dr. Deepa Menon,"MBBS, MS",Ahmedabad,Hepatitis E,14
+Dr. Sanjay Kumar,MS,Pune,Hepatitis E,10
+Dr. Neha Verma,"MBBS, MS",Pune,Hepatitis E,24
+Dr. Anjali Reddy,MBBS,Jaipur,Hepatitis E,23
+Dr. Ritu Kapoor,"MD, DM",Jaipur,Hepatitis E,25
+Dr. Vivek Chawla,MS,Lucknow,Hepatitis E,29
+Dr. Priya Singh,"MD, DM",Lucknow,Hepatitis E,29
+Dr. Amit Gupta,MS,Kanpur,Hepatitis E,21
+Dr. Vikas Tiwari,"MBBS, DNB",Kanpur,Hepatitis E,25
+Dr. Sunita Roy,MD,Nagpur,Hepatitis E,17
+Dr. Ajay Chauhan,MBBS,Nagpur,Hepatitis E,24
+Dr. Kavita Rao,MS,Indore,Hepatitis E,14
+Dr. Preeti Desai,DM,Indore,Hepatitis E,14
+Dr. Preeti Desai,"MD, DM",Bhopal,Hepatitis E,26
+Dr. Ritu Kapoor,DM,Bhopal,Hepatitis E,18
+Dr. Ajay Chauhan,"MD, DM",Visakhapatnam,Hepatitis E,32
+Dr. Rahul Bansal,DM,Visakhapatnam,Hepatitis E,19
+Dr. Vivek Chawla,MS,Patna,Hepatitis E,8
+Dr. Pankaj Jain,MD,Patna,Hepatitis E,31
+Dr. Manisha Patil,MS,Ranchi,Hepatitis E,18
+Dr. Arun Joshi,"MD, DM",Ranchi,Hepatitis E,30
+Dr. Priya Singh,"MBBS, DNB",Bhubaneswar,Hepatitis E,25
+Dr. Vivek Chawla,MS,Bhubaneswar,Hepatitis E,20
+Dr. Anjali Reddy,MBBS,Cochin,Hepatitis E,12
+Dr. Priya Singh,MS,Cochin,Hepatitis E,7
+Dr. Priya Singh,MBBS,Guwahati,Hepatitis E,29
+Dr. Deepa Menon,MD,Guwahati,Hepatitis E,20
+Dr. Neha Verma,"MBBS, MS",Mumbai,Alcoholic hepatitis,34
+Dr. Neha Verma,MD,Mumbai,Alcoholic hepatitis,17
+Dr. Ajay Chauhan,MBBS,Delhi,Alcoholic hepatitis,24
+Dr. Amit Gupta,MBBS,Delhi,Alcoholic hepatitis,9
+Dr. Sanjay Kumar,MS,Bangalore,Alcoholic hepatitis,23
+Dr. Priya Singh,"MBBS, MS",Bangalore,Alcoholic hepatitis,24
+Dr. Vikas Tiwari,MS,Kolkata,Alcoholic hepatitis,32
+Dr. Ajay Chauhan,"MBBS, MS",Kolkata,Alcoholic hepatitis,30
+Dr. Kavita Rao,MBBS,Chennai,Alcoholic hepatitis,11
+Dr. Anil Mehta,MS,Chennai,Alcoholic hepatitis,34
+Dr. Ajay Chauhan,MS,Hyderabad,Alcoholic hepatitis,8
+Dr. Amit Gupta,DM,Hyderabad,Alcoholic hepatitis,21
+Dr. Anjali Reddy,MS,Ahmedabad,Alcoholic hepatitis,23
+Dr. Pankaj Jain,"MBBS, MD",Ahmedabad,Alcoholic hepatitis,35
+Dr. Sunita Roy,DM,Pune,Alcoholic hepatitis,24
+Dr. Ajay Chauhan,"MBBS, DNB",Pune,Alcoholic hepatitis,8
+Dr. Rajesh Sharma,MD,Jaipur,Alcoholic hepatitis,17
+Dr. Pankaj Jain,MD,Jaipur,Alcoholic hepatitis,8
+Dr. Anjali Reddy,MS,Lucknow,Alcoholic hepatitis,30
+Dr. Rajesh Sharma,"MBBS, MS",Lucknow,Alcoholic hepatitis,12
+Dr. Anjali Reddy,"MBBS, MS",Kanpur,Alcoholic hepatitis,17
+Dr. Anil Mehta,"MBBS, MD",Kanpur,Alcoholic hepatitis,35
+Dr. Swati Sinha,DM,Nagpur,Alcoholic hepatitis,18
+Dr. Rajesh Sharma,"MBBS, MD",Nagpur,Alcoholic hepatitis,18
+Dr. Ajay Chauhan,MD,Indore,Alcoholic hepatitis,18
+Dr. Manisha Patil,"MBBS, MD",Indore,Alcoholic hepatitis,11
+Dr. Rahul Bansal,"MBBS, DNB",Bhopal,Alcoholic hepatitis,12
+Dr. Vikas Tiwari,"MBBS, MS",Bhopal,Alcoholic hepatitis,29
+Dr. Deepa Menon,"MBBS, MS",Visakhapatnam,Alcoholic hepatitis,6
+Dr. Manisha Patil,MBBS,Visakhapatnam,Alcoholic hepatitis,24
+Dr. Ajay Chauhan,MBBS,Patna,Alcoholic hepatitis,14
+Dr. Manisha Patil,DM,Patna,Alcoholic hepatitis,29
+Dr. Anjali Reddy,"MBBS, MD",Ranchi,Alcoholic hepatitis,28
+Dr. Deepa Menon,MD,Ranchi,Alcoholic hepatitis,5
+Dr. Anil Mehta,"MBBS, DNB",Bhubaneswar,Alcoholic hepatitis,34
+Dr. Pankaj Jain,"MBBS, MD",Bhubaneswar,Alcoholic hepatitis,34
+Dr. Manisha Patil,"MBBS, DNB",Cochin,Alcoholic hepatitis,18
+Dr. Deepa Menon,"MBBS, MD",Cochin,Alcoholic hepatitis,25
+Dr. Ajay Chauhan,"MBBS, MD",Guwahati,Alcoholic hepatitis,14
+Dr. Deepa Menon,"MD, DM",Guwahati,Alcoholic hepatitis,8
+Dr. Manisha Patil,MBBS,Mumbai,Tuberculosis,24
+Dr. Arun Joshi,"MBBS, MD",Mumbai,Tuberculosis,5
+Dr. Priya Singh,"MBBS, MS",Delhi,Tuberculosis,9
+Dr. Vivek Chawla,MD,Delhi,Tuberculosis,9
+Dr. Pankaj Jain,"MBBS, MD",Bangalore,Tuberculosis,18
+Dr. Ajay Chauhan,DM,Bangalore,Tuberculosis,30
+Dr. Sunita Roy,"MBBS, MD",Kolkata,Tuberculosis,29
+Dr. Sunita Roy,MBBS,Kolkata,Tuberculosis,32
+Dr. Priya Singh,"MD, DM",Chennai,Tuberculosis,22
+Dr. Sunita Roy,MD,Chennai,Tuberculosis,25
+Dr. Preeti Desai,"MD, DM",Hyderabad,Tuberculosis,14
+Dr. Sunita Roy,DM,Hyderabad,Tuberculosis,29
+Dr. Manisha Patil,MD,Ahmedabad,Tuberculosis,32
+Dr. Anjali Reddy,"MBBS, MD",Ahmedabad,Tuberculosis,6
+Dr. Kavita Rao,"MD, DM",Pune,Tuberculosis,33
+Dr. Rajesh Sharma,"MBBS, MS",Pune,Tuberculosis,25
+Dr. Rahul Bansal,MD,Jaipur,Tuberculosis,7
+Dr. Deepa Menon,"MD, DM",Jaipur,Tuberculosis,23
+Dr. Neha Verma,"MBBS, MS",Lucknow,Tuberculosis,35
+Dr. Pankaj Jain,MD,Lucknow,Tuberculosis,8
+Dr. Sanjay Kumar,MS,Kanpur,Tuberculosis,18
+Dr. Swati Sinha,DM,Kanpur,Tuberculosis,24
+Dr. Rajesh Sharma,"MBBS, MD",Nagpur,Tuberculosis,18
+Dr. Anjali Reddy,MD,Nagpur,Tuberculosis,29
+Dr. Neha Verma,DM,Indore,Tuberculosis,20
+Dr. Neha Verma,DM,Indore,Tuberculosis,11
+Dr. Manisha Patil,MS,Bhopal,Tuberculosis,30
+Dr. Kavita Rao,MS,Bhopal,Tuberculosis,5
+Dr. Swati Sinha,"MBBS, MD",Visakhapatnam,Tuberculosis,17
+Dr. Manisha Patil,DM,Visakhapatnam,Tuberculosis,18
+Dr. Rahul Bansal,"MBBS, MD",Patna,Tuberculosis,30
+Dr. Neha Verma,MD,Patna,Tuberculosis,25
+Dr. Swati Sinha,MS,Ranchi,Tuberculosis,5
+Dr. Manisha Patil,"MBBS, MD",Ranchi,Tuberculosis,7
+Dr. Rajesh Sharma,"MBBS, MD",Bhubaneswar,Tuberculosis,32
+Dr. Ajay Chauhan,"MBBS, MD",Bhubaneswar,Tuberculosis,25
+Dr. Priya Singh,"MBBS, MS",Cochin,Tuberculosis,25
+Dr. Priya Singh,MBBS,Cochin,Tuberculosis,11
+Dr. Vivek Chawla,"MBBS, MS",Guwahati,Tuberculosis,34
+Dr. Rahul Bansal,MS,Guwahati,Tuberculosis,17
+Dr. Amit Gupta,"MBBS, DNB",Mumbai,Common Cold,10
+Dr. Ritu Kapoor,MD,Mumbai,Common Cold,35
+Dr. Vikas Tiwari,"MBBS, MD",Delhi,Common Cold,10
+Dr. Rahul Bansal,DM,Delhi,Common Cold,13
+Dr. Deepa Menon,"MBBS, MS",Bangalore,Common Cold,24
+Dr. Priya Singh,"MBBS, MD",Bangalore,Common Cold,5
+Dr. Deepa Menon,"MBBS, DNB",Kolkata,Common Cold,13
+Dr. Preeti Desai,"MBBS, MD",Kolkata,Common Cold,17
+Dr. Pankaj Jain,"MBBS, MD",Chennai,Common Cold,32
+Dr. Sunita Roy,DM,Chennai,Common Cold,9
+Dr. Rahul Bansal,MS,Hyderabad,Common Cold,16
+Dr. Swati Sinha,"MBBS, MS",Hyderabad,Common Cold,32
+Dr. Manisha Patil,"MBBS, MD",Ahmedabad,Common Cold,35
+Dr. Rajesh Sharma,"MBBS, DNB",Ahmedabad,Common Cold,18
+Dr. Neha Verma,MS,Pune,Common Cold,29
+Dr. Deepa Menon,MD,Pune,Common Cold,13
+Dr. Swati Sinha,"MBBS, MD",Jaipur,Common Cold,17
+Dr. Anil Mehta,MD,Jaipur,Common Cold,32
+Dr. Sunita Roy,DM,Lucknow,Common Cold,16
+Dr. Anjali Reddy,MS,Lucknow,Common Cold,35
+Dr. Manisha Patil,MBBS,Kanpur,Common Cold,8
+Dr. Preeti Desai,MS,Kanpur,Common Cold,30
+Dr. Sunita Roy,"MBBS, DNB",Nagpur,Common Cold,21
+Dr. Swati Sinha,MD,Nagpur,Common Cold,5
+Dr. Arun Joshi,MS,Indore,Common Cold,12
+Dr. Neha Verma,"MBBS, MS",Indore,Common Cold,10
+Dr. Sunita Roy,MBBS,Bhopal,Common Cold,13
+Dr. Pankaj Jain,MS,Bhopal,Common Cold,7
+Dr. Rahul Bansal,"MBBS, MD",Visakhapatnam,Common Cold,29
+Dr. Swati Sinha,"MD, DM",Visakhapatnam,Common Cold,25
+Dr. Manisha Patil,"MBBS, MS",Patna,Common Cold,30
+Dr. Ritu Kapoor,DM,Patna,Common Cold,10
+Dr. Swati Sinha,MBBS,Ranchi,Common Cold,18
+Dr. Pankaj Jain,"MBBS, DNB",Ranchi,Common Cold,18
+Dr. Deepa Menon,"MD, DM",Bhubaneswar,Common Cold,25
+Dr. Ajay Chauhan,"MD, DM",Bhubaneswar,Common Cold,13
+Dr. Rajesh Sharma,MBBS,Cochin,Common Cold,20
+Dr. Pankaj Jain,"MD, DM",Cochin,Common Cold,11
+Dr. Arun Joshi,MBBS,Guwahati,Common Cold,35
+Dr. Preeti Desai,"MBBS, DNB",Guwahati,Common Cold,32
+Dr. Sunita Roy,DM,Mumbai,Pneumonia,13
+Dr. Deepa Menon,"MD, DM",Mumbai,Pneumonia,15
+Dr. Swati Sinha,"MD, DM",Delhi,Pneumonia,28
+Dr. Anjali Reddy,"MBBS, MD",Delhi,Pneumonia,17
+Dr. Preeti Desai,MS,Bangalore,Pneumonia,35
+Dr. Swati Sinha,DM,Bangalore,Pneumonia,24
+Dr. Pankaj Jain,"MBBS, MS",Kolkata,Pneumonia,18
+Dr. Pankaj Jain,"MBBS, MD",Kolkata,Pneumonia,34
+Dr. Arun Joshi,"MBBS, MS",Chennai,Pneumonia,12
+Dr. Anjali Reddy,DM,Chennai,Pneumonia,8
+Dr. Rajesh Sharma,"MBBS, MD",Hyderabad,Pneumonia,15
+Dr. Manisha Patil,"MBBS, DNB",Hyderabad,Pneumonia,17
+Dr. Vikas Tiwari,"MBBS, MD",Ahmedabad,Pneumonia,30
+Dr. Vikas Tiwari,MS,Ahmedabad,Pneumonia,30
+Dr. Preeti Desai,"MBBS, DNB",Pune,Pneumonia,6
+Dr. Vivek Chawla,"MBBS, MS",Pune,Pneumonia,5
+Dr. Pankaj Jain,"MBBS, MS",Jaipur,Pneumonia,33
+Dr. Swati Sinha,MD,Jaipur,Pneumonia,8
+Dr. Preeti Desai,MD,Lucknow,Pneumonia,30
+Dr. Sanjay Kumar,"MD, DM",Lucknow,Pneumonia,14
+Dr. Sanjay Kumar,"MBBS, MD",Kanpur,Pneumonia,29
+Dr. Sunita Roy,"MD, DM",Kanpur,Pneumonia,18
+Dr. Rahul Bansal,MS,Nagpur,Pneumonia,18
+Dr. Vivek Chawla,"MBBS, MS",Nagpur,Pneumonia,23
+Dr. Anjali Reddy,"MBBS, DNB",Indore,Pneumonia,10
+Dr. Amit Gupta,"MBBS, DNB",Indore,Pneumonia,25
+Dr. Vivek Chawla,MS,Bhopal,Pneumonia,9
+Dr. Kavita Rao,MBBS,Bhopal,Pneumonia,15
+Dr. Deepa Menon,"MBBS, MD",Visakhapatnam,Pneumonia,30
+Dr. Anil Mehta,MD,Visakhapatnam,Pneumonia,33
+Dr. Rahul Bansal,MD,Patna,Pneumonia,29
+Dr. Vikas Tiwari,"MD, DM",Patna,Pneumonia,35
+Dr. Sanjay Kumar,MBBS,Ranchi,Pneumonia,29
+Dr. Neha Verma,MBBS,Ranchi,Pneumonia,13
+Dr. Rajesh Sharma,"MBBS, DNB",Bhubaneswar,Pneumonia,34
+Dr. Anjali Reddy,"MD, DM",Bhubaneswar,Pneumonia,12
+Dr. Ajay Chauhan,"MBBS, MS",Cochin,Pneumonia,6
+Dr. Sanjay Kumar,MD,Cochin,Pneumonia,23
+Dr. Ritu Kapoor,MBBS,Guwahati,Pneumonia,25
+Dr. Ritu Kapoor,"MBBS, MS",Guwahati,Pneumonia,34
+Dr. Ajay Chauhan,"MBBS, DNB",Mumbai,Dimorphic hemmorhoids(piles),10
+Dr. Neha Verma,MD,Mumbai,Dimorphic hemmorhoids(piles),23
+Dr. Kavita Rao,MD,Delhi,Dimorphic hemmorhoids(piles),32
+Dr. Manisha Patil,"MD, DM",Delhi,Dimorphic hemmorhoids(piles),9
+Dr. Ritu Kapoor,"MBBS, MS",Bangalore,Dimorphic hemmorhoids(piles),18
+Dr. Neha Verma,MD,Bangalore,Dimorphic hemmorhoids(piles),34
+Dr. Ritu Kapoor,"MD, DM",Kolkata,Dimorphic hemmorhoids(piles),11
+Dr. Vivek Chawla,"MBBS, MS",Kolkata,Dimorphic hemmorhoids(piles),25
+Dr. Amit Gupta,"MBBS, MS",Chennai,Dimorphic hemmorhoids(piles),32
+Dr. Amit Gupta,MD,Chennai,Dimorphic hemmorhoids(piles),17
+Dr. Vivek Chawla,MBBS,Hyderabad,Dimorphic hemmorhoids(piles),21
+Dr. Anjali Reddy,MD,Hyderabad,Dimorphic hemmorhoids(piles),22
+Dr. Sunita Roy,DM,Ahmedabad,Dimorphic hemmorhoids(piles),14
+Dr. Rahul Bansal,"MBBS, DNB",Ahmedabad,Dimorphic hemmorhoids(piles),21
+Dr. Arun Joshi,MBBS,Pune,Dimorphic hemmorhoids(piles),25
+Dr. Sanjay Kumar,"MBBS, MD",Pune,Dimorphic hemmorhoids(piles),17
+Dr. Ajay Chauhan,"MD, DM",Jaipur,Dimorphic hemmorhoids(piles),30
+Dr. Rahul Bansal,MD,Jaipur,Dimorphic hemmorhoids(piles),14
+Dr. Manisha Patil,"MD, DM",Lucknow,Dimorphic hemmorhoids(piles),29
+Dr. Amit Gupta,MBBS,Lucknow,Dimorphic hemmorhoids(piles),18
+Dr. Ritu Kapoor,MD,Kanpur,Dimorphic hemmorhoids(piles),24
+Dr. Sunita Roy,"MBBS, DNB",Kanpur,Dimorphic hemmorhoids(piles),18
+Dr. Arun Joshi,MBBS,Nagpur,Dimorphic hemmorhoids(piles),25
+Dr. Swati Sinha,DM,Nagpur,Dimorphic hemmorhoids(piles),18
+Dr. Manisha Patil,MBBS,Indore,Dimorphic hemmorhoids(piles),35
+Dr. Rahul Bansal,DM,Indore,Dimorphic hemmorhoids(piles),14
+Dr. Arun Joshi,MS,Bhopal,Dimorphic hemmorhoids(piles),8
+Dr. Preeti Desai,MS,Bhopal,Dimorphic hemmorhoids(piles),5
+Dr. Rahul Bansal,DM,Visakhapatnam,Dimorphic hemmorhoids(piles),14
+Dr. Rajesh Sharma,"MD, DM",Visakhapatnam,Dimorphic hemmorhoids(piles),29
+Dr. Rajesh Sharma,"MBBS, MD",Patna,Dimorphic hemmorhoids(piles),15
+Dr. Amit Gupta,"MBBS, MS",Patna,Dimorphic hemmorhoids(piles),20
+Dr. Deepa Menon,MD,Ranchi,Dimorphic hemmorhoids(piles),15
+Dr. Sanjay Kumar,MS,Ranchi,Dimorphic hemmorhoids(piles),11
+Dr. Rahul Bansal,MD,Bhubaneswar,Dimorphic hemmorhoids(piles),28
+Dr. Amit Gupta,"MBBS, MD",Bhubaneswar,Dimorphic hemmorhoids(piles),22
+Dr. Amit Gupta,"MBBS, MS",Cochin,Dimorphic hemmorhoids(piles),7
+Dr. Priya Singh,"MBBS, DNB",Cochin,Dimorphic hemmorhoids(piles),35
+Dr. Ritu Kapoor,"MD, DM",Guwahati,Dimorphic hemmorhoids(piles),21
+Dr. Swati Sinha,MBBS,Guwahati,Dimorphic hemmorhoids(piles),15
+Dr. Kavita Rao,"MBBS, MS",Mumbai,Heart attack,21
+Dr. Preeti Desai,"MD, DM",Mumbai,Heart attack,24
+Dr. Ritu Kapoor,MBBS,Delhi,Heart attack,8
+Dr. Rahul Bansal,MD,Delhi,Heart attack,30
+Dr. Swati Sinha,MS,Bangalore,Heart attack,15
+Dr. Sanjay Kumar,"MBBS, DNB",Bangalore,Heart attack,13
+Dr. Preeti Desai,"MBBS, MD",Kolkata,Heart attack,14
+Dr. Rajesh Sharma,MBBS,Kolkata,Heart attack,18
+Dr. Priya Singh,MD,Chennai,Heart attack,35
+Dr. Manisha Patil,"MBBS, DNB",Chennai,Heart attack,26
+Dr. Ajay Chauhan,"MBBS, MD",Hyderabad,Heart attack,24
+Dr. Rahul Bansal,MD,Hyderabad,Heart attack,29
+Dr. Anjali Reddy,MS,Ahmedabad,Heart attack,6
+Dr. Rajesh Sharma,"MD, DM",Ahmedabad,Heart attack,19
+Dr. Vivek Chawla,MS,Pune,Heart attack,31
+Dr. Pankaj Jain,MS,Pune,Heart attack,8
+Dr. Deepa Menon,"MD, DM",Jaipur,Heart attack,26
+Dr. Rahul Bansal,"MBBS, MS",Jaipur,Heart attack,30
+Dr. Deepa Menon,MD,Lucknow,Heart attack,33
+Dr. Swati Sinha,"MBBS, DNB",Lucknow,Heart attack,15
+Dr. Swati Sinha,MS,Kanpur,Heart attack,29
+Dr. Sanjay Kumar,MD,Kanpur,Heart attack,22
+Dr. Ajay Chauhan,"MBBS, DNB",Nagpur,Heart attack,33
+Dr. Amit Gupta,"MD, DM",Nagpur,Heart attack,24
+Dr. Swati Sinha,MBBS,Indore,Heart attack,32
+Dr. Manisha Patil,"MBBS, MS",Indore,Heart attack,35
+Dr. Ajay Chauhan,DM,Bhopal,Heart attack,30
+Dr. Priya Singh,MS,Bhopal,Heart attack,7
+Dr. Anjali Reddy,"MBBS, DNB",Visakhapatnam,Heart attack,24
+Dr. Vikas Tiwari,MS,Visakhapatnam,Heart attack,31
+Dr. Neha Verma,"MBBS, MS",Patna,Heart attack,10
+Dr. Kavita Rao,MD,Patna,Heart attack,17
+Dr. Amit Gupta,MD,Ranchi,Heart attack,18
+Dr. Ritu Kapoor,MD,Ranchi,Heart attack,5
+Dr. Ajay Chauhan,"MD, DM",Bhubaneswar,Heart attack,14
+Dr. Sanjay Kumar,MD,Bhubaneswar,Heart attack,15
+Dr. Manisha Patil,"MBBS, MD",Cochin,Heart attack,22
+Dr. Arun Joshi,"MBBS, MS",Cochin,Heart attack,29
+Dr. Rahul Bansal,"MBBS, MD",Guwahati,Heart attack,30
+Dr. Vivek Chawla,"MBBS, MS",Guwahati,Heart attack,14
+Dr. Anjali Reddy,MS,Mumbai,Varicose veins,33
+Dr. Rahul Bansal,"MBBS, DNB",Mumbai,Varicose veins,20
+Dr. Neha Verma,"MBBS, DNB",Delhi,Varicose veins,23
+Dr. Amit Gupta,MD,Delhi,Varicose veins,18
+Dr. Manisha Patil,MD,Bangalore,Varicose veins,9
+Dr. Deepa Menon,"MBBS, MD",Bangalore,Varicose veins,12
+Dr. Preeti Desai,DM,Kolkata,Varicose veins,18
+Dr. Kavita Rao,"MBBS, DNB",Kolkata,Varicose veins,23
+Dr. Neha Verma,MS,Chennai,Varicose veins,21
+Dr. Vikas Tiwari,"MBBS, MD",Chennai,Varicose veins,6
+Dr. Pankaj Jain,DM,Hyderabad,Varicose veins,32
+Dr. Sunita Roy,DM,Hyderabad,Varicose veins,13
+Dr. Ajay Chauhan,"MBBS, MD",Ahmedabad,Varicose veins,26
+Dr. Neha Verma,MS,Ahmedabad,Varicose veins,6
+Dr. Sanjay Kumar,MD,Pune,Varicose veins,18
+Dr. Sunita Roy,MD,Pune,Varicose veins,33
+Dr. Rahul Bansal,MBBS,Jaipur,Varicose veins,20
+Dr. Sanjay Kumar,MBBS,Jaipur,Varicose veins,13
+Dr. Rajesh Sharma,MD,Lucknow,Varicose veins,18
+Dr. Rahul Bansal,MBBS,Lucknow,Varicose veins,34
+Dr. Vikas Tiwari,MS,Kanpur,Varicose veins,26
+Dr. Deepa Menon,MD,Kanpur,Varicose veins,23
+Dr. Pankaj Jain,MBBS,Nagpur,Varicose veins,33
+Dr. Vikas Tiwari,MBBS,Nagpur,Varicose veins,5
+Dr. Kavita Rao,DM,Indore,Varicose veins,22
+Dr. Swati Sinha,"MBBS, DNB",Indore,Varicose veins,6
+Dr. Preeti Desai,DM,Bhopal,Varicose veins,11
+Dr. Amit Gupta,MD,Bhopal,Varicose veins,24
+Dr. Anil Mehta,MBBS,Visakhapatnam,Varicose veins,31
+Dr. Sanjay Kumar,"MBBS, DNB",Visakhapatnam,Varicose veins,30
+Dr. Anjali Reddy,"MBBS, MD",Patna,Varicose veins,25
+Dr. Swati Sinha,"MBBS, DNB",Patna,Varicose veins,25
+Dr. Neha Verma,MBBS,Ranchi,Varicose veins,31
+Dr. Amit Gupta,DM,Ranchi,Varicose veins,6
+Dr. Ajay Chauhan,MD,Bhubaneswar,Varicose veins,8
+Dr. Kavita Rao,"MBBS, MS",Bhubaneswar,Varicose veins,34
+Dr. Preeti Desai,"MBBS, MD",Cochin,Varicose veins,20
+Dr. Priya Singh,"MD, DM",Cochin,Varicose veins,34
+Dr. Deepa Menon,"MBBS, DNB",Guwahati,Varicose veins,29
+Dr. Ajay Chauhan,"MBBS, DNB",Guwahati,Varicose veins,21
+Dr. Manisha Patil,MS,Mumbai,Hypothyroidism,15
+Dr. Manisha Patil,"MBBS, DNB",Mumbai,Hypothyroidism,18
+Dr. Manisha Patil,"MD, DM",Delhi,Hypothyroidism,30
+Dr. Pankaj Jain,"MBBS, MD",Delhi,Hypothyroidism,20
+Dr. Pankaj Jain,"MBBS, DNB",Bangalore,Hypothyroidism,18
+Dr. Amit Gupta,"MBBS, DNB",Bangalore,Hypothyroidism,14
+Dr. Rajesh Sharma,MBBS,Kolkata,Hypothyroidism,25
+Dr. Kavita Rao,"MBBS, MD",Kolkata,Hypothyroidism,14
+Dr. Rajesh Sharma,"MBBS, DNB",Chennai,Hypothyroidism,29
+Dr. Anil Mehta,MBBS,Chennai,Hypothyroidism,5
+Dr. Preeti Desai,MS,Hyderabad,Hypothyroidism,14
+Dr. Anjali Reddy,"MBBS, DNB",Hyderabad,Hypothyroidism,15
+Dr. Ajay Chauhan,"MBBS, DNB",Ahmedabad,Hypothyroidism,5
+Dr. Swati Sinha,"MBBS, MS",Ahmedabad,Hypothyroidism,9
+Dr. Pankaj Jain,DM,Pune,Hypothyroidism,6
+Dr. Deepa Menon,"MBBS, MD",Pune,Hypothyroidism,35
+Dr. Rajesh Sharma,"MD, DM",Jaipur,Hypothyroidism,13
+Dr. Swati Sinha,"MD, DM",Jaipur,Hypothyroidism,10
+Dr. Deepa Menon,MBBS,Lucknow,Hypothyroidism,15
+Dr. Vikas Tiwari,"MBBS, DNB",Lucknow,Hypothyroidism,14
+Dr. Sunita Roy,MBBS,Kanpur,Hypothyroidism,23
+Dr. Kavita Rao,"MBBS, MS",Kanpur,Hypothyroidism,34
+Dr. Vivek Chawla,"MD, DM",Nagpur,Hypothyroidism,8
+Dr. Manisha Patil,MBBS,Nagpur,Hypothyroidism,23
+Dr. Ajay Chauhan,"MBBS, DNB",Indore,Hypothyroidism,21
+Dr. Vikas Tiwari,DM,Indore,Hypothyroidism,26
+Dr. Anjali Reddy,"MBBS, DNB",Bhopal,Hypothyroidism,31
+Dr. Arun Joshi,"MBBS, MS",Bhopal,Hypothyroidism,22
+Dr. Vikas Tiwari,DM,Visakhapatnam,Hypothyroidism,26
+Dr. Rahul Bansal,MBBS,Visakhapatnam,Hypothyroidism,30
+Dr. Arun Joshi,"MBBS, MS",Patna,Hypothyroidism,20
+Dr. Priya Singh,"MBBS, MS",Patna,Hypothyroidism,15
+Dr. Anil Mehta,DM,Ranchi,Hypothyroidism,20
+Dr. Pankaj Jain,"MBBS, MD",Ranchi,Hypothyroidism,35
+Dr. Sunita Roy,MBBS,Bhubaneswar,Hypothyroidism,22
+Dr. Ajay Chauhan,DM,Bhubaneswar,Hypothyroidism,23
+Dr. Ritu Kapoor,"MD, DM",Cochin,Hypothyroidism,35
+Dr. Swati Sinha,"MBBS, MD",Cochin,Hypothyroidism,12
+Dr. Manisha Patil,MS,Guwahati,Hypothyroidism,7
+Dr. Pankaj Jain,MD,Guwahati,Hypothyroidism,14
+Dr. Ajay Chauhan,"MBBS, MS",Mumbai,Hyperthyroidism,6
+Dr. Rajesh Sharma,"MBBS, MD",Mumbai,Hyperthyroidism,34
+Dr. Sunita Roy,MS,Delhi,Hyperthyroidism,6
+Dr. Anjali Reddy,"MBBS, DNB",Delhi,Hyperthyroidism,6
+Dr. Anil Mehta,"MBBS, DNB",Bangalore,Hyperthyroidism,15
+Dr. Sanjay Kumar,"MD, DM",Bangalore,Hyperthyroidism,9
+Dr. Pankaj Jain,"MBBS, MD",Kolkata,Hyperthyroidism,16
+Dr. Anjali Reddy,"MBBS, MD",Kolkata,Hyperthyroidism,34
+Dr. Manisha Patil,"MBBS, DNB",Chennai,Hyperthyroidism,14
+Dr. Neha Verma,"MD, DM",Chennai,Hyperthyroidism,29
+Dr. Vivek Chawla,"MBBS, DNB",Hyderabad,Hyperthyroidism,5
+Dr. Amit Gupta,"MBBS, MS",Hyderabad,Hyperthyroidism,19
+Dr. Pankaj Jain,MBBS,Ahmedabad,Hyperthyroidism,12
+Dr. Pankaj Jain,"MBBS, MD",Ahmedabad,Hyperthyroidism,21
+Dr. Arun Joshi,"MBBS, DNB",Pune,Hyperthyroidism,6
+Dr. Neha Verma,"MBBS, MD",Pune,Hyperthyroidism,35
+Dr. Anil Mehta,DM,Jaipur,Hyperthyroidism,17
+Dr. Deepa Menon,MBBS,Jaipur,Hyperthyroidism,9
+Dr. Priya Singh,"MBBS, DNB",Lucknow,Hyperthyroidism,22
+Dr. Manisha Patil,DM,Lucknow,Hyperthyroidism,8
+Dr. Rajesh Sharma,MBBS,Kanpur,Hyperthyroidism,11
+Dr. Vivek Chawla,MD,Kanpur,Hyperthyroidism,30
+Dr. Ritu Kapoor,"MD, DM",Nagpur,Hyperthyroidism,28
+Dr. Arun Joshi,MS,Nagpur,Hyperthyroidism,7
+Dr. Arun Joshi,MBBS,Indore,Hyperthyroidism,14
+Dr. Priya Singh,"MBBS, MD",Indore,Hyperthyroidism,33
+Dr. Manisha Patil,MD,Bhopal,Hyperthyroidism,33
+Dr. Deepa Menon,MD,Bhopal,Hyperthyroidism,24
+Dr. Ritu Kapoor,MD,Visakhapatnam,Hyperthyroidism,16
+Dr. Vivek Chawla,"MD, DM",Visakhapatnam,Hyperthyroidism,29
+Dr. Deepa Menon,"MBBS, DNB",Patna,Hyperthyroidism,25
+Dr. Preeti Desai,MD,Patna,Hyperthyroidism,10
+Dr. Ajay Chauhan,MBBS,Ranchi,Hyperthyroidism,6
+Dr. Ajay Chauhan,MD,Ranchi,Hyperthyroidism,20
+Dr. Amit Gupta,MD,Bhubaneswar,Hyperthyroidism,32
+Dr. Vivek Chawla,"MBBS, MS",Bhubaneswar,Hyperthyroidism,18
+Dr. Sanjay Kumar,"MD, DM",Cochin,Hyperthyroidism,14
+Dr. Ritu Kapoor,"MBBS, MS",Cochin,Hyperthyroidism,20
+Dr. Manisha Patil,"MBBS, MS",Guwahati,Hyperthyroidism,34
+Dr. Pankaj Jain,"MD, DM",Guwahati,Hyperthyroidism,10
+Dr. Vivek Chawla,MBBS,Mumbai,Hypoglycemia,25
+Dr. Ajay Chauhan,"MBBS, MS",Mumbai,Hypoglycemia,25
+Dr. Anil Mehta,"MBBS, MD",Delhi,Hypoglycemia,29
+Dr. Neha Verma,MD,Delhi,Hypoglycemia,29
+Dr. Ajay Chauhan,"MBBS, MD",Bangalore,Hypoglycemia,29
+Dr. Ajay Chauhan,MD,Bangalore,Hypoglycemia,5
+Dr. Anil Mehta,DM,Kolkata,Hypoglycemia,8
+Dr. Deepa Menon,"MBBS, DNB",Kolkata,Hypoglycemia,13
+Dr. Deepa Menon,MD,Chennai,Hypoglycemia,25
+Dr. Ajay Chauhan,"MD, DM",Chennai,Hypoglycemia,32
+Dr. Rahul Bansal,"MBBS, MS",Hyderabad,Hypoglycemia,22
+Dr. Deepa Menon,"MBBS, MS",Hyderabad,Hypoglycemia,34
+Dr. Neha Verma,"MD, DM",Ahmedabad,Hypoglycemia,35
+Dr. Manisha Patil,"MBBS, MD",Ahmedabad,Hypoglycemia,14
+Dr. Vivek Chawla,"MD, DM",Pune,Hypoglycemia,15
+Dr. Preeti Desai,DM,Pune,Hypoglycemia,20
+Dr. Anil Mehta,"MBBS, MS",Jaipur,Hypoglycemia,35
+Dr. Ajay Chauhan,DM,Jaipur,Hypoglycemia,32
+Dr. Amit Gupta,MD,Lucknow,Hypoglycemia,25
+Dr. Pankaj Jain,DM,Lucknow,Hypoglycemia,29
+Dr. Sanjay Kumar,MD,Kanpur,Hypoglycemia,23
+Dr. Sunita Roy,"MBBS, DNB",Kanpur,Hypoglycemia,33
+Dr. Manisha Patil,"MBBS, DNB",Nagpur,Hypoglycemia,18
+Dr. Ajay Chauhan,"MBBS, MS",Nagpur,Hypoglycemia,32
+Dr. Kavita Rao,"MBBS, DNB",Indore,Hypoglycemia,29
+Dr. Vikas Tiwari,MS,Indore,Hypoglycemia,29
+Dr. Arun Joshi,"MBBS, MS",Bhopal,Hypoglycemia,31
+Dr. Rajesh Sharma,MBBS,Bhopal,Hypoglycemia,7
+Dr. Kavita Rao,MS,Visakhapatnam,Hypoglycemia,25
+Dr. Arun Joshi,DM,Visakhapatnam,Hypoglycemia,8
+Dr. Deepa Menon,MBBS,Patna,Hypoglycemia,11
+Dr. Swati Sinha,"MBBS, MD",Patna,Hypoglycemia,7
+Dr. Amit Gupta,MD,Ranchi,Hypoglycemia,10
+Dr. Ajay Chauhan,MBBS,Ranchi,Hypoglycemia,10
+Dr. Priya Singh,MBBS,Bhubaneswar,Hypoglycemia,23
+Dr. Ajay Chauhan,MBBS,Bhubaneswar,Hypoglycemia,8
+Dr. Kavita Rao,MD,Cochin,Hypoglycemia,31
+Dr. Amit Gupta,"MBBS, MD",Cochin,Hypoglycemia,17
+Dr. Swati Sinha,"MBBS, DNB",Guwahati,Hypoglycemia,8
+Dr. Arun Joshi,"MD, DM",Guwahati,Hypoglycemia,13
+Dr. Swati Sinha,"MBBS, DNB",Mumbai,Osteoarthristis,26
+Dr. Arun Joshi,MBBS,Mumbai,Osteoarthristis,29
+Dr. Vikas Tiwari,MBBS,Delhi,Osteoarthristis,29
+Dr. Rajesh Sharma,"MBBS, MS",Delhi,Osteoarthristis,34
+Dr. Priya Singh,MD,Bangalore,Osteoarthristis,19
+Dr. Swati Sinha,"MBBS, MS",Bangalore,Osteoarthristis,17
+Dr. Sanjay Kumar,DM,Kolkata,Osteoarthristis,34
+Dr. Anil Mehta,MBBS,Kolkata,Osteoarthristis,35
+Dr. Anjali Reddy,"MBBS, DNB",Chennai,Osteoarthristis,15
+Dr. Deepa Menon,"MBBS, MS",Chennai,Osteoarthristis,24
+Dr. Ajay Chauhan,"MBBS, MS",Hyderabad,Osteoarthristis,9
+Dr. Ritu Kapoor,MBBS,Hyderabad,Osteoarthristis,19
+Dr. Ajay Chauhan,MD,Ahmedabad,Osteoarthristis,18
+Dr. Neha Verma,DM,Ahmedabad,Osteoarthristis,17
+Dr. Priya Singh,"MBBS, DNB",Pune,Osteoarthristis,30
+Dr. Anjali Reddy,MBBS,Pune,Osteoarthristis,30
+Dr. Ritu Kapoor,"MBBS, MD",Jaipur,Osteoarthristis,5
+Dr. Kavita Rao,"MBBS, DNB",Jaipur,Osteoarthristis,14
+Dr. Ritu Kapoor,"MBBS, MD",Lucknow,Osteoarthristis,9
+Dr. Neha Verma,"MBBS, MD",Lucknow,Osteoarthristis,25
+Dr. Ajay Chauhan,"MBBS, MD",Kanpur,Osteoarthristis,29
+Dr. Priya Singh,DM,Kanpur,Osteoarthristis,15
+Dr. Arun Joshi,"MBBS, MD",Nagpur,Osteoarthristis,17
+Dr. Ajay Chauhan,MD,Nagpur,Osteoarthristis,29
+Dr. Anil Mehta,MD,Indore,Osteoarthristis,7
+Dr. Ajay Chauhan,MBBS,Indore,Osteoarthristis,15
+Dr. Anjali Reddy,DM,Bhopal,Osteoarthristis,10
+Dr. Sanjay Kumar,MD,Bhopal,Osteoarthristis,11
+Dr. Vivek Chawla,"MBBS, MD",Visakhapatnam,Osteoarthristis,5
+Dr. Vivek Chawla,MBBS,Visakhapatnam,Osteoarthristis,8
+Dr. Pankaj Jain,MBBS,Patna,Osteoarthristis,15
+Dr. Swati Sinha,"MBBS, MS",Patna,Osteoarthristis,8
+Dr. Sunita Roy,"MBBS, MD",Ranchi,Osteoarthristis,17
+Dr. Arun Joshi,DM,Ranchi,Osteoarthristis,14
+Dr. Anjali Reddy,MBBS,Bhubaneswar,Osteoarthristis,7
+Dr. Anjali Reddy,MBBS,Bhubaneswar,Osteoarthristis,25
+Dr. Priya Singh,"MBBS, MD",Cochin,Osteoarthristis,9
+Dr. Sanjay Kumar,MD,Cochin,Osteoarthristis,13
+Dr. Preeti Desai,DM,Guwahati,Osteoarthristis,32
+Dr. Amit Gupta,"MBBS, DNB",Guwahati,Osteoarthristis,14
+Dr. Anjali Reddy,"MBBS, MS",Mumbai,Arthritis,9
+Dr. Amit Gupta,MS,Mumbai,Arthritis,14
+Dr. Neha Verma,MBBS,Delhi,Arthritis,29
+Dr. Vikas Tiwari,"MBBS, MD",Delhi,Arthritis,5
+Dr. Swati Sinha,MBBS,Bangalore,Arthritis,7
+Dr. Ajay Chauhan,MBBS,Bangalore,Arthritis,12
+Dr. Kavita Rao,"MBBS, DNB",Kolkata,Arthritis,15
+Dr. Ajay Chauhan,"MBBS, MS",Kolkata,Arthritis,18
+Dr. Neha Verma,"MBBS, DNB",Chennai,Arthritis,34
+Dr. Anjali Reddy,DM,Chennai,Arthritis,7
+Dr. Arun Joshi,"MBBS, MS",Hyderabad,Arthritis,8
+Dr. Rajesh Sharma,MS,Hyderabad,Arthritis,25
+Dr. Ritu Kapoor,MBBS,Ahmedabad,Arthritis,10
+Dr. Kavita Rao,MBBS,Ahmedabad,Arthritis,20
+Dr. Anil Mehta,MS,Pune,Arthritis,6
+Dr. Rahul Bansal,"MBBS, DNB",Pune,Arthritis,22
+Dr. Sanjay Kumar,MBBS,Jaipur,Arthritis,13
+Dr. Kavita Rao,MD,Jaipur,Arthritis,9
+Dr. Ritu Kapoor,"MBBS, MS",Lucknow,Arthritis,14
+Dr. Rahul Bansal,"MBBS, DNB",Lucknow,Arthritis,14
+Dr. Swati Sinha,DM,Kanpur,Arthritis,6
+Dr. Sunita Roy,MBBS,Kanpur,Arthritis,7
+Dr. Kavita Rao,MBBS,Nagpur,Arthritis,32
+Dr. Manisha Patil,MS,Nagpur,Arthritis,10
+Dr. Vikas Tiwari,MD,Indore,Arthritis,13
+Dr. Manisha Patil,"MBBS, MD",Indore,Arthritis,25
+Dr. Manisha Patil,"MD, DM",Bhopal,Arthritis,32
+Dr. Ajay Chauhan,"MBBS, MD",Bhopal,Arthritis,16
+Dr. Sunita Roy,MBBS,Visakhapatnam,Arthritis,8
+Dr. Pankaj Jain,"MBBS, MS",Visakhapatnam,Arthritis,26
+Dr. Vikas Tiwari,"MBBS, MS",Patna,Arthritis,18
+Dr. Swati Sinha,"MD, DM",Patna,Arthritis,17
+Dr. Priya Singh,MS,Ranchi,Arthritis,9
+Dr. Vikas Tiwari,"MBBS, MS",Ranchi,Arthritis,30
+Dr. Ajay Chauhan,DM,Bhubaneswar,Arthritis,8
+Dr. Kavita Rao,"MBBS, MS",Bhubaneswar,Arthritis,20
+Dr. Sunita Roy,MS,Cochin,Arthritis,21
+Dr. Neha Verma,"MBBS, MD",Cochin,Arthritis,32
+Dr. Vivek Chawla,"MBBS, MS",Guwahati,Arthritis,33
+Dr. Vikas Tiwari,MBBS,Guwahati,Arthritis,34
+Dr. Ritu Kapoor,"MBBS, DNB",Mumbai,(vertigo) Paroymsal  Positional Vertigo,34
+Dr. Amit Gupta,"MBBS, MS",Mumbai,(vertigo) Paroymsal  Positional Vertigo,18
+Dr. Vivek Chawla,"MBBS, MS",Delhi,(vertigo) Paroymsal  Positional Vertigo,29
+Dr. Anjali Reddy,"MBBS, MD",Delhi,(vertigo) Paroymsal  Positional Vertigo,30
+Dr. Vivek Chawla,"MBBS, DNB",Bangalore,(vertigo) Paroymsal  Positional Vertigo,29
+Dr. Ajay Chauhan,DM,Bangalore,(vertigo) Paroymsal  Positional Vertigo,26
+Dr. Priya Singh,DM,Kolkata,(vertigo) Paroymsal  Positional Vertigo,15
+Dr. Neha Verma,MBBS,Kolkata,(vertigo) Paroymsal  Positional Vertigo,20
+Dr. Priya Singh,MS,Chennai,(vertigo) Paroymsal  Positional Vertigo,21
+Dr. Deepa Menon,"MBBS, MD",Chennai,(vertigo) Paroymsal  Positional Vertigo,32
+Dr. Priya Singh,MD,Hyderabad,(vertigo) Paroymsal  Positional Vertigo,5
+Dr. Pankaj Jain,"MBBS, DNB",Hyderabad,(vertigo) Paroymsal  Positional Vertigo,29
+Dr. Amit Gupta,"MBBS, MS",Ahmedabad,(vertigo) Paroymsal  Positional Vertigo,21
+Dr. Ajay Chauhan,"MD, DM",Ahmedabad,(vertigo) Paroymsal  Positional Vertigo,10
+Dr. Anjali Reddy,MBBS,Pune,(vertigo) Paroymsal  Positional Vertigo,10
+Dr. Anil Mehta,DM,Pune,(vertigo) Paroymsal  Positional Vertigo,14
+Dr. Manisha Patil,"MBBS, MD",Jaipur,(vertigo) Paroymsal  Positional Vertigo,22
+Dr. Arun Joshi,"MBBS, MD",Jaipur,(vertigo) Paroymsal  Positional Vertigo,20
+Dr. Amit Gupta,"MD, DM",Lucknow,(vertigo) Paroymsal  Positional Vertigo,25
+Dr. Vikas Tiwari,"MD, DM",Lucknow,(vertigo) Paroymsal  Positional Vertigo,19
+Dr. Rahul Bansal,DM,Kanpur,(vertigo) Paroymsal  Positional Vertigo,16
+Dr. Ritu Kapoor,MS,Kanpur,(vertigo) Paroymsal  Positional Vertigo,15
+Dr. Rajesh Sharma,"MD, DM",Nagpur,(vertigo) Paroymsal  Positional Vertigo,14
+Dr. Preeti Desai,"MBBS, DNB",Nagpur,(vertigo) Paroymsal  Positional Vertigo,6
+Dr. Vivek Chawla,MD,Indore,(vertigo) Paroymsal  Positional Vertigo,24
+Dr. Vivek Chawla,MD,Indore,(vertigo) Paroymsal  Positional Vertigo,34
+Dr. Rajesh Sharma,"MD, DM",Bhopal,(vertigo) Paroymsal  Positional Vertigo,30
+Dr. Arun Joshi,"MD, DM",Bhopal,(vertigo) Paroymsal  Positional Vertigo,17
+Dr. Deepa Menon,"MBBS, MD",Visakhapatnam,(vertigo) Paroymsal  Positional Vertigo,6
+Dr. Ajay Chauhan,MS,Visakhapatnam,(vertigo) Paroymsal  Positional Vertigo,35
+Dr. Vikas Tiwari,DM,Patna,(vertigo) Paroymsal  Positional Vertigo,5
+Dr. Sanjay Kumar,"MBBS, MD",Patna,(vertigo) Paroymsal  Positional Vertigo,23
+Dr. Rahul Bansal,DM,Ranchi,(vertigo) Paroymsal  Positional Vertigo,21
+Dr. Amit Gupta,DM,Ranchi,(vertigo) Paroymsal  Positional Vertigo,7
+Dr. Arun Joshi,MD,Bhubaneswar,(vertigo) Paroymsal  Positional Vertigo,32
+Dr. Rahul Bansal,"MBBS, MD",Bhubaneswar,(vertigo) Paroymsal  Positional Vertigo,13
+Dr. Anjali Reddy,"MD, DM",Cochin,(vertigo) Paroymsal  Positional Vertigo,35
+Dr. Rajesh Sharma,"MBBS, MD",Cochin,(vertigo) Paroymsal  Positional Vertigo,31
+Dr. Arun Joshi,DM,Guwahati,(vertigo) Paroymsal  Positional Vertigo,5
+Dr. Kavita Rao,MD,Guwahati,(vertigo) Paroymsal  Positional Vertigo,25
+Dr. Deepa Menon,"MBBS, MD",Mumbai,Acne,35
+Dr. Manisha Patil,MBBS,Mumbai,Acne,15
+Dr. Neha Verma,MS,Delhi,Acne,21
+Dr. Vikas Tiwari,DM,Delhi,Acne,34
+Dr. Sanjay Kumar,MD,Bangalore,Acne,20
+Dr. Deepa Menon,"MD, DM",Bangalore,Acne,35
+Dr. Deepa Menon,"MBBS, MD",Kolkata,Acne,23
+Dr. Rahul Bansal,"MBBS, MD",Kolkata,Acne,17
+Dr. Swati Sinha,"MBBS, MD",Chennai,Acne,32
+Dr. Ritu Kapoor,MS,Chennai,Acne,29
+Dr. Neha Verma,"MBBS, DNB",Hyderabad,Acne,34
+Dr. Sanjay Kumar,MD,Hyderabad,Acne,25
+Dr. Sunita Roy,MBBS,Ahmedabad,Acne,6
+Dr. Amit Gupta,"MBBS, DNB",Ahmedabad,Acne,7
+Dr. Ajay Chauhan,MD,Pune,Acne,34
+Dr. Manisha Patil,MBBS,Pune,Acne,17
+Dr. Vikas Tiwari,"MBBS, MS",Jaipur,Acne,25
+Dr. Ritu Kapoor,MD,Jaipur,Acne,30
+Dr. Sanjay Kumar,"MBBS, MD",Lucknow,Acne,6
+Dr. Sanjay Kumar,MD,Lucknow,Acne,34
+Dr. Vivek Chawla,MD,Kanpur,Acne,31
+Dr. Swati Sinha,"MBBS, MS",Kanpur,Acne,30
+Dr. Vikas Tiwari,"MBBS, MS",Nagpur,Acne,6
+Dr. Vikas Tiwari,MD,Nagpur,Acne,31
+Dr. Vikas Tiwari,DM,Indore,Acne,8
+Dr. Kavita Rao,DM,Indore,Acne,20
+Dr. Ajay Chauhan,MS,Bhopal,Acne,6
+Dr. Anjali Reddy,"MBBS, MS",Bhopal,Acne,14
+Dr. Ajay Chauhan,"MBBS, MD",Visakhapatnam,Acne,30
+Dr. Manisha Patil,MD,Visakhapatnam,Acne,32
+Dr. Sunita Roy,DM,Patna,Acne,35
+Dr. Ritu Kapoor,MS,Patna,Acne,29
+Dr. Rajesh Sharma,"MBBS, MD",Ranchi,Acne,20
+Dr. Sunita Roy,MD,Ranchi,Acne,35
+Dr. Deepa Menon,"MBBS, DNB",Bhubaneswar,Acne,30
+Dr. Rahul Bansal,MD,Bhubaneswar,Acne,17
+Dr. Manisha Patil,"MD, DM",Cochin,Acne,8
+Dr. Anil Mehta,MS,Cochin,Acne,14
+Dr. Kavita Rao,DM,Guwahati,Acne,7
+Dr. Priya Singh,"MBBS, DNB",Guwahati,Acne,20
+Dr. Priya Singh,"MBBS, MS",Mumbai,Urinary tract infection,35
+Dr. Amit Gupta,"MBBS, MD",Mumbai,Urinary tract infection,10
+Dr. Swati Sinha,MD,Delhi,Urinary tract infection,23
+Dr. Ritu Kapoor,"MBBS, DNB",Delhi,Urinary tract infection,18
+Dr. Anil Mehta,MS,Bangalore,Urinary tract infection,25
+Dr. Ritu Kapoor,MBBS,Bangalore,Urinary tract infection,34
+Dr. Pankaj Jain,MD,Kolkata,Urinary tract infection,10
+Dr. Arun Joshi,"MBBS, MD",Kolkata,Urinary tract infection,5
+Dr. Swati Sinha,"MBBS, MS",Chennai,Urinary tract infection,7
+Dr. Manisha Patil,MS,Chennai,Urinary tract infection,17
+Dr. Sunita Roy,MD,Hyderabad,Urinary tract infection,14
+Dr. Amit Gupta,"MBBS, MD",Hyderabad,Urinary tract infection,22
+Dr. Sunita Roy,"MBBS, MS",Ahmedabad,Urinary tract infection,5
+Dr. Vikas Tiwari,DM,Ahmedabad,Urinary tract infection,17
+Dr. Sanjay Kumar,MBBS,Pune,Urinary tract infection,8
+Dr. Preeti Desai,"MBBS, MD",Pune,Urinary tract infection,21
+Dr. Anjali Reddy,"MBBS, MS",Jaipur,Urinary tract infection,6
+Dr. Vivek Chawla,MS,Jaipur,Urinary tract infection,34
+Dr. Arun Joshi,MD,Lucknow,Urinary tract infection,14
+Dr. Vikas Tiwari,MBBS,Lucknow,Urinary tract infection,12
+Dr. Neha Verma,DM,Kanpur,Urinary tract infection,15
+Dr. Sanjay Kumar,"MD, DM",Kanpur,Urinary tract infection,30
+Dr. Preeti Desai,DM,Nagpur,Urinary tract infection,7
+Dr. Manisha Patil,MBBS,Nagpur,Urinary tract infection,9
+Dr. Swati Sinha,MD,Indore,Urinary tract infection,7
+Dr. Sanjay Kumar,MBBS,Indore,Urinary tract infection,6
+Dr. Pankaj Jain,MD,Bhopal,Urinary tract infection,20
+Dr. Priya Singh,"MD, DM",Bhopal,Urinary tract infection,5
+Dr. Vivek Chawla,MS,Visakhapatnam,Urinary tract infection,5
+Dr. Rahul Bansal,MD,Visakhapatnam,Urinary tract infection,24
+Dr. Anil Mehta,"MBBS, MS",Patna,Urinary tract infection,20
+Dr. Anil Mehta,MD,Patna,Urinary tract infection,14
+Dr. Sanjay Kumar,"MD, DM",Ranchi,Urinary tract infection,30
+Dr. Ajay Chauhan,DM,Ranchi,Urinary tract infection,17
+Dr. Amit Gupta,DM,Bhubaneswar,Urinary tract infection,18
+Dr. Neha Verma,"MD, DM",Bhubaneswar,Urinary tract infection,19
+Dr. Priya Singh,"MBBS, MD",Cochin,Urinary tract infection,23
+Dr. Swati Sinha,DM,Cochin,Urinary tract infection,14
+Dr. Neha Verma,"MBBS, MD",Guwahati,Urinary tract infection,29
+Dr. Ritu Kapoor,MD,Guwahati,Urinary tract infection,6
+Dr. Amit Gupta,MD,Mumbai,Psoriasis,18
+Dr. Preeti Desai,MS,Mumbai,Psoriasis,29
+Dr. Pankaj Jain,"MBBS, MD",Delhi,Psoriasis,15
+Dr. Vikas Tiwari,"MBBS, MS",Delhi,Psoriasis,30
+Dr. Ritu Kapoor,DM,Bangalore,Psoriasis,9
+Dr. Neha Verma,MD,Bangalore,Psoriasis,6
+Dr. Ritu Kapoor,"MBBS, MD",Kolkata,Psoriasis,9
+Dr. Vikas Tiwari,MS,Kolkata,Psoriasis,8
+Dr. Sunita Roy,"MBBS, DNB",Chennai,Psoriasis,29
+Dr. Priya Singh,"MBBS, MS",Chennai,Psoriasis,9
+Dr. Swati Sinha,MS,Hyderabad,Psoriasis,33
+Dr. Preeti Desai,MS,Hyderabad,Psoriasis,6
+Dr. Neha Verma,DM,Ahmedabad,Psoriasis,30
+Dr. Rajesh Sharma,"MBBS, MD",Ahmedabad,Psoriasis,22
+Dr. Anjali Reddy,"MBBS, MD",Pune,Psoriasis,18
+Dr. Ritu Kapoor,DM,Pune,Psoriasis,18
+Dr. Ritu Kapoor,"MBBS, DNB",Jaipur,Psoriasis,31
+Dr. Ritu Kapoor,MD,Jaipur,Psoriasis,7
+Dr. Kavita Rao,"MBBS, DNB",Lucknow,Psoriasis,25
+Dr. Vivek Chawla,MD,Lucknow,Psoriasis,24
+Dr. Anjali Reddy,"MBBS, DNB",Kanpur,Psoriasis,26
+Dr. Priya Singh,DM,Kanpur,Psoriasis,24
+Dr. Priya Singh,"MD, DM",Nagpur,Psoriasis,14
+Dr. Neha Verma,"MBBS, DNB",Nagpur,Psoriasis,35
+Dr. Manisha Patil,"MBBS, MD",Indore,Psoriasis,29
+Dr. Priya Singh,"MBBS, MD",Indore,Psoriasis,25
+Dr. Neha Verma,"MBBS, MD",Bhopal,Psoriasis,15
+Dr. Amit Gupta,"MBBS, DNB",Bhopal,Psoriasis,9
+Dr. Preeti Desai,MS,Visakhapatnam,Psoriasis,25
+Dr. Vivek Chawla,DM,Visakhapatnam,Psoriasis,13
+Dr. Priya Singh,"MBBS, DNB",Patna,Psoriasis,6
+Dr. Amit Gupta,"MBBS, DNB",Patna,Psoriasis,26
+Dr. Swati Sinha,"MBBS, DNB",Ranchi,Psoriasis,18
+Dr. Deepa Menon,DM,Ranchi,Psoriasis,24
+Dr. Rajesh Sharma,MBBS,Bhubaneswar,Psoriasis,11
+Dr. Amit Gupta,MD,Bhubaneswar,Psoriasis,18
+Dr. Deepa Menon,DM,Cochin,Psoriasis,7
+Dr. Ajay Chauhan,"MBBS, MS",Cochin,Psoriasis,18
+Dr. Neha Verma,"MBBS, MD",Guwahati,Psoriasis,13
+Dr. Rajesh Sharma,"MD, DM",Guwahati,Psoriasis,18
+Dr. Neha Verma,"MBBS, DNB",Mumbai,Impetigo,13
+Dr. Neha Verma,"MD, DM",Mumbai,Impetigo,30
+Dr. Preeti Desai,"MD, DM",Delhi,Impetigo,18
+Dr. Rajesh Sharma,MS,Delhi,Impetigo,20
+Dr. Sunita Roy,"MD, DM",Bangalore,Impetigo,22
+Dr. Anjali Reddy,DM,Bangalore,Impetigo,11
+Dr. Rajesh Sharma,"MD, DM",Kolkata,Impetigo,35
+Dr. Rajesh Sharma,"MBBS, MS",Kolkata,Impetigo,18
+Dr. Rajesh Sharma,MBBS,Chennai,Impetigo,18
+Dr. Ritu Kapoor,"MBBS, MD",Chennai,Impetigo,14
+Dr. Kavita Rao,MBBS,Hyderabad,Impetigo,14
+Dr. Swati Sinha,DM,Hyderabad,Impetigo,23
+Dr. Ajay Chauhan,DM,Ahmedabad,Impetigo,29
+Dr. Ritu Kapoor,"MBBS, DNB",Ahmedabad,Impetigo,5
+Dr. Deepa Menon,"MBBS, MD",Pune,Impetigo,24
+Dr. Manisha Patil,"MD, DM",Pune,Impetigo,30
+Dr. Arun Joshi,"MBBS, MS",Jaipur,Impetigo,6
+Dr. Ajay Chauhan,"MBBS, MD",Jaipur,Impetigo,31
+Dr. Neha Verma,DM,Lucknow,Impetigo,23
+Dr. Swati Sinha,"MBBS, DNB",Lucknow,Impetigo,7
+Dr. Anil Mehta,MBBS,Kanpur,Impetigo,8
+Dr. Priya Singh,"MD, DM",Kanpur,Impetigo,6
+Dr. Anjali Reddy,"MBBS, DNB",Nagpur,Impetigo,32
+Dr. Vivek Chawla,DM,Nagpur,Impetigo,35
+Dr. Neha Verma,"MBBS, MS",Indore,Impetigo,34
+Dr. Sanjay Kumar,MD,Indore,Impetigo,20
+Dr. Swati Sinha,"MBBS, MD",Bhopal,Impetigo,8
+Dr. Preeti Desai,MBBS,Bhopal,Impetigo,15
+Dr. Amit Gupta,MD,Visakhapatnam,Impetigo,35
+Dr. Ajay Chauhan,DM,Visakhapatnam,Impetigo,23
+Dr. Deepa Menon,MS,Patna,Impetigo,30
+Dr. Priya Singh,MS,Patna,Impetigo,34
+Dr. Rajesh Sharma,"MBBS, DNB",Ranchi,Impetigo,18
+Dr. Amit Gupta,"MBBS, MD",Ranchi,Impetigo,13
+Dr. Ritu Kapoor,"MBBS, MD",Bhubaneswar,Impetigo,25
+Dr. Deepa Menon,"MBBS, MS",Bhubaneswar,Impetigo,25
+Dr. Preeti Desai,MD,Cochin,Impetigo,25
+Dr. Sanjay Kumar,"MBBS, MS",Cochin,Impetigo,6
+Dr. Rahul Bansal,DM,Guwahati,Impetigo,32
+Dr. Ajay Chauhan,"MBBS, MS",Guwahati,Impetigo,35

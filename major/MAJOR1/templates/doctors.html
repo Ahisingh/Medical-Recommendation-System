@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Recommended Doctors</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container my-4">
+        <h3>Doctors for {{ disease }} in {{ city }}</h3>
+        <ul class="list-group">
+            {% for doctor in doctors.itertuples() %}
+                <li class="list-group-item">
+                    <strong>Name:</strong> {{ doctor.Name }}<br>
+                    <strong>Experience:</strong> {{ doctor.Experience }} years<br>
+                    <strong>Degree:</strong> {{ doctor.Degree }}<br>
+                    <strong>City:</strong> {{ doctor.City }}
+                </li>
+            {% endfor %}
+        </ul>
+        {% if doctors.empty %}
+            <p>No doctors found for {{ disease }} in {{ city }}.</p>
+        {% endif %}
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
